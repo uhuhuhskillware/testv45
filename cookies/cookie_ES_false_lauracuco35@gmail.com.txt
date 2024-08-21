@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1764547200	nfvdid	BQFmAAEBEE2nUeVFYYQfVBJlk1sNYC5gDSvzhEicW173PqS20bbFOJ8gRdJ8Bpkh64AJ_63biDdfDmfzuQ_xpCV2t3se6vSZK2NW2y2a8wfHWvRlZ3RE5lWD3gO46kSZoRSRYX-Y4YdJKepBHtV2FRIrOe_pW3nf
+.help.netflix.com	TRUE	/	FALSE	1764547200	XSRF-TOKEN	032f799f-3089-46bd-80da-b97156709738
+.netflix.com	TRUE	/	FALSE	1764547200	NetflixId	ct%3DBQAOAAEBECDyxY9ieCPNnsJBFXX8ubmB4ENKLOyxO2HaWE4_vGhNJwHPVVVaCO1Cm0O3wTzAeiqbLYl8IFtQ2SMZRK3nbUUZKpDJsqpPhaKLMMYd2LNvWzyWe816y8bL_p1m_fBUzL_9HgSeg4-zHbsGwhEwoV7XEBQ8AlrWyoeWMddjyTk7Z0R75IaS6gwFRuxAXx43-uKj2cBPpdgHfLM9IGzVgWBxiA_wlXdY8JDfxsOrSpY-9GG5Qp_2Zvnji44Jmc-AwWEUVQRlIWWH9hujaHyX6mJWjGeehI-Otne1ryReH6M0TpRL3zDuwzsrdWUUUKwYTsoSaPbxMswec2u6bK00Lg4WjZxS__6jX4lX7f5RZOx0kqlRGby4WE008c1p51BCmIJb-AsJW1jzOqMxapVU48Vvpw9s9_lnz_h4f5oDd6JOUUEtVQ2dvZLQaRz4j-LaytU9IbbvAxqBJ7gl7JlxcF2trrwXqiSQ51GKqeWqKsnNDsGAlRTFULjo3UGjbC6lhfCHJQlvwQ8WW0CAjIS8xKtN8ykaiKK0JJI8okVgk97OBIGfSskRbWmNmmlDtFhoCzypgRPmlLS6ntInJpMZnPfVP3nryA0-qGXQFvSKB3zHovXwHNlPhdP39N3sf25XKc74XoK5lOZYVZBRQX2uJaNOtQ..%26bt%3Ddbl%26ch%3DAQEAEAABABTfWl0yPRbqfq2GEX8-Wt5fwE41tDEtL2Q.%26v%3D2%26mac%3DAQEAEAABABQgH0CMpqBB1TnAW3D4VR2IsAMBTiRqu5c.
+.netflix.com	TRUE	/	FALSE	1764547200	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRDLKHnbD6WOuaOAJSCl6mHitJktEULMtI.%26dt%3D1673077174908
+.netflix.com	TRUE	/	FALSE	1764547200	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jan+07+2023+09%3A27%3A04+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202211.2.0&consentId=95139962-7729-4355-afc2-fde9cb48c80a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1764547200	dsca	customer
+.netflix.com	TRUE	/	FALSE	1764547200	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1764547200	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1764547200	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1764547200	memclid	48da4a2e-e2cd-4a54-b96e-5dfa51ad6aa9
+
