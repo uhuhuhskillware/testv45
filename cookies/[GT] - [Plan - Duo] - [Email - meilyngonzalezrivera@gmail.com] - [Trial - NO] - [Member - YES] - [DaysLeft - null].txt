@@ -1,0 +1,22 @@
+.spotify.com	TRUE	/	TRUE	1731353683	sp_t	1f74dc98ef114a8aa2c57bdee88a8e5d
+.spotify.com	TRUE	/	FALSE	1705774611	_gcl_au	1.1.828233312.1697998611
+.spotify.com	TRUE	/	TRUE	1731353694	sp_adid	264ec8d1-b1e9-43ba-9dd3-d0e9d177d81e
+.spotify.com	TRUE	/	FALSE	1729534643	OptanonAlertBoxClosed	2023-10-22T18:17:23.349Z
+accounts.spotify.com	FALSE	/	TRUE	1732558647	__Host-device_id	AQD-Olvl3hqw_WQA6jkxLTgG3q34VjKYFVSbfuBr-765wNHXVO9pwtasVFkyFdUDDlxljrKYUteBlMu5XwKj3qiQyE8SBajqKv0
+.spotify.com	TRUE	/	TRUE	1729534667	sp_dc	AQBApQenU6IcG5OVO4TBqhqrz4ux__q9b2DUfR4lkzZkorDNdXsdwbmQGnlRuitUdAWm7AtPvWc5ebbT_lJ71Z2owPLMLAJ8QsXKD7Ij_Y-RZJtGOstVvR8f9IZGTEZp1o-kZmIFBW06r4R6nYKUlFOt-PHjlcp6
+.spotify.com	TRUE	/	TRUE	1729534667	sp_key	800ae535-824e-4b7d-b289-010b2ce76410
+.spotify.com	TRUE	/	TRUE	1699904084	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D1f74dc98ef114a8aa2c57bdee88a8e5d%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1734378601	_ga	GA1.2.1792258308.1697998612
+.spotify.com	TRUE	/	FALSE	1699905001	_gid	GA1.2.1557901196.1699817694
+.spotify.com	TRUE	/	FALSE	1731353695	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+12+2023+13%3A34%3A55+GMT-0600+(hora+est%C3%A1ndar+central)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1&geolocation=GT%3BGU&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1734378744	_ga_ZWG1NSHWD8	GS1.1.1699817693.6.1.1699818744.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: meilyngonzalezrivera@gmail.com
+Plan: Duo
+Trial: NO
+Member: YES
+Days Left: null
+Country: GT
+===========================================

@@ -1,0 +1,17 @@
+accounts.spotify.com	FALSE	/	TRUE	1754605457	__Host-device_id	AQCq6rmCUoGwJVH0Jm2T8RF8fIDh3dyjgu8pYIBao1NituPHSpHK50OpiDucr_ZnFEfJKCV35zGBzZk2KdMBwAKun1oYKKkvkOQ
+.spotify.com	TRUE	/	TRUE	1751581649	sp_adid	f1fb6ee9-f8a1-4417-ac84-4d9d2259d471
+.spotify.com	TRUE	/	TRUE	1751581638	sp_dc	AQB5S5rr5dKBZA70OZ12Bex3T_zLga-GaaIcDKuNK_TXxIt_d4EoxBFkSGKSjGOMjXhykiZc774HcBY0b7xb1Nidu3kwHv_TNEhgMldc6xP_zuBUNevZpnRslvsDzmurksq4LHd8OM_Czpxv-H69DtyI6WEMGYdb
+.spotify.com	TRUE	/	TRUE	1725229642	sp_gaid	0088fc8e33ad4a6395ce0214436306aacf78e9f4ebee8995981bfa
+.spotify.com	TRUE	/	TRUE	1751581638	sp_key	81f92801-7e5d-41ed-a726-1356e07f212b
+.spotify.com	TRUE	/	TRUE	1754605642	sp_m	nl
+.spotify.com	TRUE	/	TRUE	1751581835	sp_t	8e7ca1bdb5ad0577e5beb69d248ac9a7
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: kidsgroninger@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: NL
+===========================================

@@ -1,0 +1,18 @@
+.spotify.com	TRUE	/	TRUE	1754835991	sp_t	114c95206211f6e18e97fd4af1b9eb19
+.spotify.com	TRUE	/	TRUE	1745936209	sp_adid	1e54453f-1c63-417a-acd1-8dd3ab9e0f3e
+.spotify.com	TRUE	/	TRUE	1750677028	sp_m	es
+accounts.spotify.com	FALSE	/	TRUE	1755772555	__Host-device_id	AQBnDe7WPmwtDkX21Pry77quFxwLKEEpALdZPchTMrJy65Dw02vc0x1wxfXYQTi64OjgDL0ay929drXOHIPQuORV4R7gMcqEUns
+.spotify.com	TRUE	/	TRUE	1752748595	sp_dc	AQB7H9KLig7_yatOFjC0ouGJayE9txDPmlhUU46fvsUuJ3w8GYiuUd9pjkDrF8GVeZ0lJewYRJSF5i3Rnd9M1VePunJC6HeCoqkPxQ_MnZvfpbSQOSCrUh8OUw_DkTgNhX0GxeaGstAq50MHdqjTueuljC8OqWA
+.spotify.com	TRUE	/	TRUE	1752748595	sp_key	ebc0f90b-8ff9-4cda-b560-48cf0ef3c0b0
+open.spotify.com	FALSE	/	FALSE	1757843647	muxData	mux_viewer_id=6fffb8c4-97a0-4b4d-b71e-19ad23db0315&msn=0.9006237560071366&sid=8394eae6-189f-4c48-a03b-116e9b68204f&sst=1723280112496.5&sex=1723285147139.3
+.spotify.com	TRUE	/	TRUE	1728640744	sp_gaid	0088fcf14363e4e75fb2598c6de189c3c403190184aa18d16b95d1
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: danielfuentesgomez5@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: ES
+===========================================

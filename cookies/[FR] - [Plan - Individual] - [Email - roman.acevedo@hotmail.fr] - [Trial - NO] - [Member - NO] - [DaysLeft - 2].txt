@@ -1,0 +1,21 @@
+.spotify.com	TRUE	/	TRUE	1741299207	sp_t	282f72163fb745214847ae098216837a
+.spotify.com	TRUE	/	FALSE	1734984149	LPVID	E5OTIyMGRkMTE4NjNmNGFh
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	false
+.spotify.com	TRUE	/	FALSE	0	LPSID-2422064	7BV-h8yMRMOT5yohTeZz7w
+.accounts.spotify.com	TRUE	/	TRUE	0	__Secure-TPASESSION	AQCkmQ/0x+uoiV7ZaU+Q92w2PBfEd5FbGh8UkeKoFxtg1+1MyI8wBjN6gLYr7hnXM2TIYHmbPRtwUHHJhTiTvRG1OBwbOfP01XA=
+accounts.spotify.com	FALSE	/	TRUE	0	remember	messebanania
+.spotify.com	TRUE	/	TRUE	1732551606	sp_dc	AQDJnDqWApjtUd18FV2VP4LIehZPR5NcJ1tjHGGB3tkwt2fPI-YgGfHc6GEqFP5_t-u8TeFtwe1lX3AAp-Tzje7sJ3KjgihZT6jntEc-pDly2Zi9a7OdkA0sKstBqLDgaf2D3uK_Wdh57OgqonklLSW7NRttwt0
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_sso_csrf_token	013acda719101199a12ff06f3d78ea788539eb4d1631373031303135363034383835
+.spotify.com	TRUE	/	TRUE	1732551606	sp_key	cda03443-f65d-43fa-8353-e605ef25b0c4
+.accounts.spotify.com	TRUE	/	TRUE	0	csrf_token	AQAw2DZOCT7uypAW5YtDGHGWre_-lr6OsuxU-E5meB_Gjgn5C6aHbFDz46Egtj3MmPW5E2V6G6q3RsEO6A8h6yqevXTna_Inq8S9pB7b6FGhAqCS
+.spotify.com	TRUE	/	FALSE	1733751772	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+10+2023+14%3A42%3A52+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=127f318f-a9a2-4cdb-a5a5-0fa26e77a59f&interactionCount=1&landingPath=https%3A%2F%2Fwww.spotify.com%2Fus%2Faccount%2Funsubscribe%2F%3Ft%3DJcXBDYAwCADAVVygCVYrdhwQSJooNaIPt%252Ffhfe7QCGVy8kaD97vZm%252BL872Z6RSKXxI%252FLrjFswKwoLMjKSiXn1azyggUyjjOQVpuswAc%253D%26a%3Dunsubscribe&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: roman.acevedo@hotmail.fr
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 2
+Country: FR
+===========================================

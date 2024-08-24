@@ -1,0 +1,14 @@
+accounts.spotify.com	FALSE	/	TRUE	1749116236	__Host-device_id	AQDf0dnUdovkcpiuk2rRegM06sd5-QrnQK8qU2-dtddm4JAT3XRDBGmWKj0YN1Ue7PxD8V0rVFH_zNrxt425-MXKKwRNYVnlZL4
+.spotify.com	TRUE	/	TRUE	1746092239	sp_dc	AQBdJFlqGplmcZZ3-VqTRBLYAY66GEcyR55Uqegf7Th9sBnMqYs6XWBbTZgtoKxgqphiSffW1DJ_5PEQwwqBQURzffOYndMrEnvb7W80zTHjE9maSEHvp-EBLwu9vixe3a34Up8jYzM-gHaRBeRDxfN9f5aOhbme
+.spotify.com	TRUE	/	TRUE	1746092239	sp_key	403e2aa9-0d51-4e8c-abe9-fed92a03d8a3
+.spotify.com	TRUE	/	TRUE	1746376030	sp_t	eda7ae2e2550b74e667a41afdbf268eb
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: kimmarn13@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: NO
+===========================================

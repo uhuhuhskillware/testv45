@@ -1,0 +1,16 @@
+accounts.spotify.com	FALSE	/	TRUE	1745609443	__Host-device_id	AQAp86kOEi5qUJfjUQoiQEMIlkWKVgvmblV8aJ96BhfXBM1fgAzKdAmdmOHK3kKKFex4BkU1xzvEpI40b0YcC7J-i3JwulSyxos
+.spotify.com	TRUE	/	TRUE	1742585470	sp_dc	AQDcHy4mwHlZrAVOlBQG2W60gAggABkRorDF3fWgFGzudKJWY-Td-_QE54rdddbGt7iIpXflYflkZleov725h_9k9hvrwXaVML42NLFQds_WKXmnyxPmnRF8TgeAioeA77wj19xCaLlom7tfzYIzvKrvd_btw2U
+.spotify.com	TRUE	/	TRUE	1742585470	sp_key	af555b18-43aa-4f6b-b794-3fa49e7fa641
+.spotify.com	TRUE	/	TRUE	1742585473	sp_t	43dee9e3432ffe2f09b8c5f1efe29c35
+.spotify.com	TRUE	/	TRUE	1748280444	sp_m	se
+.spotify.com	TRUE	/	TRUE	1755028360	sp_adid	73a33bfd-4ba7-403e-b3e4-72dbdeaf3e03
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: puttekb@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: SE
+===========================================
