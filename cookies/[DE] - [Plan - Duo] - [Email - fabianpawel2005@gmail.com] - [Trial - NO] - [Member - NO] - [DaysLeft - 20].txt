@@ -1,0 +1,14 @@
+accounts.spotify.com	FALSE	/	TRUE	1736090748	__Host-device_id	AQDXUJuO5HJ5hHJUjsIt3zK2dNabE4WXVO27c9mZgTlAD7WGRRZgkjOnzEPf82TZKzEjAgqvvKzD9Ph7VZUSmLP5_JC_Hl-M63k
+.spotify.com	TRUE	/	TRUE	1733066834	sp_dc	AQCMuVM5OTTqeGD8S1vw-jWx8yvY9L4Fys3Xz-djvw2BiOoNd9-KHEMxbg11beQ7TUzm4aR_YZ0dZdSmDeiGLzs5opfk2pTabh-wHkpmizW6SYe1je6Gj-2TzC4KldbNatPouaQYou09LRKJkE7BUhxZmZgj3Kr4UKA81KOV6sm2XN7dVyCu2-6HRi6aX2p7WoE5srMweI49O-IsOAmiFczDNO8h
+.spotify.com	TRUE	/	TRUE	1733066834	sp_key	20d115a5-14d3-4e83-96ef-84e38a87d309
+.spotify.com	TRUE	/	TRUE	1733066838	sp_t	e12b9c1b37234a427ad3bf10a6514bd6
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: fabianpawel2005@gmail.com
+Plan: Duo
+Trial: NO
+Member: NO
+Days Left: 20
+Country: DE
+===========================================

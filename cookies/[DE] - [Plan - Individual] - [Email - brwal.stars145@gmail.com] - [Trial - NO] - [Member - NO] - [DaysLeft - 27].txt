@@ -1,0 +1,23 @@
+accounts.spotify.com	FALSE	/	TRUE	3868342013	__Host-device_id	AQAZW-8eBUCkafRrZn7VjQKdBFm6MDhjNFvLwalXJSAyxZwD7zjQzq3aJBD3DFd2AdqSgHWjEVAyW3dcX7JvQ97SWRBfnPKJUYY
+.spotify.com	FALSE	/	TRUE	1836375241	sp_m	de
+.spotify.com	FALSE	/	TRUE	1752394584	sp_dc	AQBpX8Cxf-jEBu3ON_m-2sxONGFfhtS_-ant9JQztTvI3Y1JyCzuGqbdBo8lLDLrR-Zt-zUMygUiNwrKSsC7kmGwfgWN3o_OMgdUqVMnc6fT4O0Xi-4sXkBvqzILav5MULFxSfKJSTOaXgDSJbazgB1RgP8oYi69
+.spotify.com	FALSE	/	TRUE	1752394584	sp_key	24f037d9-4678-46ae-b80b-76e0181ac380
+www.spotify.com	FALSE	/	TRUE	1720862185	__Host-sp_csrf_sid	fda20378f813f547e34cf9afd6a702a5a56445b2664c7469c020316c08a19fb5
+.spotify.com	FALSE	/	TRUE	1720944985	sp_new	1
+.spotify.com	FALSE	/	TRUE	1720944985	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	FALSE	/	TRUE	1726051105	sp_gaid	0088fca83e2dab685f6808c57cb8386938e06d0f31ded46627f642
+.spotify.com	FALSE	/	TRUE	1752394587	sp_adid	bd170b3e-7330-40b5-b0d5-aa80f860301a
+.spotify.com	FALSE	/	FALSE	1752394588	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+13+2024+10%3A16%3A28+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c457501-c58a-4cb8-b043-cbde9841c8a1&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.spotify.com%2Fde%2Faccount%2Foverview%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cf11%3A0%2CBG181%3A1
+accounts.spotify.com	FALSE	/	TRUE	1720986005	__Host-sp_csrf_sid	cdb42069c80ce151d4f2ff73b9466aa6488197715b2217c4d0837c874e210622
+.spotify.com	FALSE	/	TRUE	1752526925	sp_t	ccc1c8cc-ae3f-448b-95a1-3473855d7047
+.spotify.com	FALSE	/	TRUE	1721077325	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3Dccc1c8cc-ae3f-448b-95a1-3473855d7047%26device%3Ddesktop
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: brwal.stars145@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 27
+Country: DE
+===========================================

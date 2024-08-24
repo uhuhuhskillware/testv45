@@ -1,0 +1,18 @@
+.spotify.com	TRUE	/	FALSE	1739304285	sp_t	8c687164870213a6ea22de401ebf2d38
+accounts.spotify.com	FALSE	/	FALSE	1742313537	__Host-device_id	AQDZaVbwYTn7NJE4JKVEaxEVAoiCy-P1TOxgKPRsL2f7Gg5c66gz6aC7ZvC4DzWAQwWLD35UCSEtLBfJVdOcwNwm-WAo6t1pe5w
+.spotify.com	FALSE	/	FALSE	1739289738	sp_dc	AQCxHqGLCmSxj77bph9M8xOFvh_bBOPzxrRM0i9VwvD43DaPsTLLk9AW0FlSZ3X7wCQGl2pvCLrCMQeOy_pJeenT1QTWkatQqcWwveU43fB6sVVtvIhZrbO7Fr5kw33NLyCvInpiWaA3BoNCeLCTWccS-AuKmnc
+.spotify.com	TRUE	/	FALSE	1739289738	sp_key	6ea3f982-34f9-4aa3-8170-55afd3e0500c
+.spotify.com	TRUE	/	TRUE	1739289753	OptanonAlertBoxClosed	2024-02-12T18:02:33.013Z
+.spotify.com	TRUE	/	TRUE	1739294077	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+12+2024+16%3A14%3A37+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BGO
+.spotify.com	TRUE	/	TRUE	1742318160	_ga	GA1.2.1946274403.1707760736
+.spotify.com	TRUE	/	TRUE	1742318089	_ga_ZWG1NSHWD8	GS1.1.1707764704.2.1.1707765289.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: gui567costa@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 13
+Country: BR
+===========================================

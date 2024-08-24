@@ -1,0 +1,19 @@
+.spotify.com	FALSE	/	FALSE	1729082373	sp_landing	https%3A%2F%2Fwww.napratica.org.br%2F%3Fsp_cid%3D70cf44401ffabb846d814c55f3787560%26device%3Ddesktop
+accounts.spotify.com	FALSE	/	FALSE	1752936868	__Host-device_id	AQDfeHIcj2EJTtr410z0QOvFgClyWPmBk1DdbgLh0MBzNsnVGRbhnkND3e_8jbIF6q9r-ySWCU57cu9Z-wYjXJuiSbnLgMK4tvo
+.spotify.com	FALSE	/	FALSE	1749912889	sp_dc	AQCh0b-o9cZY82j5oqPv54Nh1apvX-8YvBSql1gj01EFrVKoJVZGzx0ASeYaNFvgSXKv-9RTeZEnrOYBrEkWy8oYKzLIJUq0OpitHiUuM0XfUWAuojaCd1QQvGX1nFC2zTHix8bwQxtErS7zmoMp0lgGFPEjj2Y
+.spotify.com	TRUE	/	FALSE	1749912889	sp_key	26c3eb05-177e-4b65-84bf-9d65c77454c8
+.spotify.com	TRUE	/	FALSE	1749912890	sp_t	70cf44401ffabb846d814c55f3787560
+.spotify.com	TRUE	/	FALSE	1723560912	sp_gaid	0088fcd67b18cf08f99f88a42828003b5a4f93c59d2ce5f6bafa4f
+.spotify.com	TRUE	/	FALSE	1723561089	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	FALSE	/	FALSE	1752937099	sp_m	br-pt
+.spotify.com	TRUE	/	FALSE	1749913204	sp_adid	3227a747-7e0b-4b34-9435-0092eb9da957
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: lucasgodinhoccorrea@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 21
+Country: BR
+===========================================

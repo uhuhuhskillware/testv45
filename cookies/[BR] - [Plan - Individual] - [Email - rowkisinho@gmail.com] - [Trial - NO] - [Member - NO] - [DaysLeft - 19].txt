@@ -1,0 +1,45 @@
+accounts.spotify.com	FALSE	/	FALSE	1747302988	__Host-device_id	AQAGn8l2rYhCa6XJ6rMQ4vLzK9906J0RSQ_L79c2O0D-hDSQbONKwpxlvHh9xIMK3FrhQhrRrRx5rqTYzhaQwlNUowsRSWuqFIs
+.spotify.com	FALSE	/	FALSE	1748645776	sp_m	br-pt
+.spotify.com	TRUE	/	FALSE	1751390099	sp_t	43d20c13-16c0-4ff0-b2ec-4be4cd869684
+.spotify.com	TRUE	/	TRUE	1748249779	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1748272477	_scid	0a0ede72-87c9-4053-b9cf-fb145d0f5762
+.spotify.com	TRUE	/	TRUE	1751975190	_tt_enable_cookie	1
+.spotify.com	TRUE	/	TRUE	1751975190	_ttp	MTTBH_rKds-KvsPfVPpDVu6LsvF
+www.spotify.com	TRUE	/	FALSE	1749815484	ravelinDeviceId	rjs-35793917-57ec-4322-9d13-f8df0b0fe35a
+.spotify.com	TRUE	/	TRUE	1749815473	__kdtv	t%3D1718286646746%3Bi%3D314508093a2942f251c998b5bffd05a84147fd5e
+.spotify.com	TRUE	/	TRUE	1749815473	_kdt	%7B%22t%22%3A1718286646746%2C%22i%22%3A%22314508093a2942f251c998b5bffd05a84147fd5e%22%7D
+.spotify.com	TRUE	/	TRUE	1749815447	OptanonAlertBoxClosed	2024-06-13T13:50:47.332Z
+.spotify.com	TRUE	/	FALSE	1726055487	_rdt_uuid	1718286396216.e122b3ab-f7a7-4f8f-89e3-37a2d1306d40
+.spotify.com	TRUE	/	TRUE	1751975487	_uetvid	080e12e0298c11ef9df0415117332590
+.www.spotify.com	TRUE	/	TRUE	1752839488	__lt__cid	155f7095-5040-4298-9dda-01fc8ed30c28
+.spotify.com	TRUE	/	TRUE	1726055488	_fbp	fb.1.1718286688272.349037971456469760
+.spotify.com	TRUE	/	TRUE	1749815488	_derived_epik	dj0yJnU9SUsyY3BmYUhwemhvTUowTXU3UEVDc3ByeUZTYnhGX1Qmbj1DWHh4cVgzY1h5TFNfZ0RGcDJwNjZBJm09MSZ0PUFBQUFBR1pxLVdFJnJtPTEmcnQ9QUFBQUFHWnEtV0Umc3A9NQ
+.spotify.com	TRUE	/	TRUE	1749815488	_pin_unauth	dWlkPU16ZzBNV1F5WmpndE5EaGhNeTAwWTJGaExXSTFOMkV0TVRNek5UQTFaRFl6TmpWbA
+www.spotify.com	TRUE	/	FALSE	1749815488	RoktRecogniser	fbaa6520-77fe-4d02-84b2-61c3611a4087
+.spotify.com	TRUE	/	FALSE	1724682323	sp_gaid	0088fc9eaf2cb85db5a4d8745e932e55b5278f1544afc4c75dd69a
+.spotify.com	TRUE	/	TRUE	1754347963	_ga_S0T2DJJFZM	GS1.1.1719795163.2.0.1719795163.0.0.0
+.spotify.com	FALSE	/	FALSE	1751390066	sp_dc	AQDbSt1GOCR3NnkfqN72awQKAEQ6qWiPr4iVV30RjgyfoCJbmzM740_OtCOGu5BOuQ-ftiOnDOvg_JD8PVsW-aDqLEiVPTS8nAMagCyOamKE2juCCIoALQdh0vRjUUEjm9DEYYDFr40geozWojd-AuuJYgpC3YpBo8twOd-CK652qmScGd3un4pImYEakwieaEG5K8vPWPVHNHMX3rwD5jA1ew3o
+.spotify.com	TRUE	/	FALSE	1751390066	sp_key	b0070f1c-fffa-43cf-9587-951ba71e4722
+.spotify.com	TRUE	/	TRUE	1754414081	_ga_ZWG1NSHWD8	GS1.1.1719861279.2.0.1719861281.0.0.0
+.spotify.com	TRUE	/	FALSE	1727509137	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1753884436	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+30+2024+13%3A07%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BSP
+.spotify.com	TRUE	/	TRUE	1756908436	_ga	GA1.1.1934604437.1714092979
+.spotify.com	TRUE	/	TRUE	1756908437	_ga_BMC5VGR8YS	GS1.2.1722355637.5.0.1722355637.60.0.0
+.spotify.com	TRUE	/	TRUE	1730101141	_gcl_au	1.1.2090883353.1722332341
+.spotify.com	TRUE	/	TRUE	1756535135	_scid_r	0a0ede72-87c9-4053-b9cf-fb145d0f5762
+.spotify.com	TRUE	/	FALSE	1753884436	sp_adid	99d38098-1c80-49b2-96f8-607305f91622
+.spotify.com	TRUE	/	TRUE	1748249779	_cs_id	db8adfe7-8266-a523-93fb-4ee7ef5d62ea.1714092979.17.1722384461.1722384461.1.1748256979616.1
+.spotify.com	TRUE	/	TRUE	1756937286	_ga_S35RN5WNT2	GS1.1.1722384486.10.0.1722384486.0.0.0
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQDsK-onFl70hP7nPK72FBf4-pG0VB14RC70JyihvXLyGPZ91hMNCIU5UewTX4RQcgvCaq7cfk_8RPEaMrvDlESzEXcdLmpwlg6659SRg1ezfCNRUA
+.accounts.spotify.com	TRUE	/	FALSE	1723329880	inapptestgroup	
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	true
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: rowkisinho@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 19
+Country: BR
+===========================================

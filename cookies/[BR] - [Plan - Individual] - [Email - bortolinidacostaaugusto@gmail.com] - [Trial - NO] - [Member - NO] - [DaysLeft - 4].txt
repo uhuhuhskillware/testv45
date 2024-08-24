@@ -1,0 +1,23 @@
+.spotify.com	TRUE	/	TRUE	1732130380	sp_t	016afafe-4035-434a-b951-37b445aad816
+.spotify.com	TRUE	/	TRUE	1735052052	sp_adid	4581aee8-1177-4cc1-bffc-512b8b48f626
+accounts.spotify.com	FALSE	/	TRUE	1726535796	__Host-device_id	AQAAUaajB6rJQjh_-tzjvTcPldtfvixIln8L7114VvW9m2qBIj-l6zBWzfVSL8JmL0-18ENpNPO5YwA8RFXPnR4NN-gPwm36-7g
+.spotify.com	TRUE	/	TRUE	1726181276	sp_dc	AQB6XMWvjW2r_K9B0mvjdinRzR4BfFCFWt9vm4DRuMnDwAfTXs4XG-fSrw1XqwjfcQfPRsGsHTRTGDjAjNu318WEaOid97WOpqs8jpiN5FNJyVeX0C5zR_HHi7mvn2Mhl0PxegjpCPnBZREyzLJO7dMDkx6HnFc
+.spotify.com	TRUE	/	TRUE	1726181276	sp_key	16fa414b-e9c0-42b1-8b00-3f1b4937c911
+.spotify.com	TRUE	/	FALSE	1735154383	_ga_ZWG1NSHWD8	GS1.1.1700594383.4.1.1700594383.0.0.0
+www.spotify.com	FALSE	/	TRUE	1735052215	ravelinDeviceId	rjs-5d3e9319-4130-40a2-97cd-a33b6d12244d
+.spotify.com	TRUE	/	FALSE	1739671172	_ga	GA1.2.1708724764.1684621012
+.spotify.com	TRUE	/	FALSE	1737702750	_scid_r	dd08b906-76fa-463b-938d-c6d673abfca9
+.spotify.com	TRUE	/	FALSE	1735052052	OptanonConsent	isIABGlobal=false&datestamp=Mon+Dec+25+2023+11%3A54%3A12+GMT-0300+(Brasilia+Standard+Time)&version=202309.1.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0
+.spotify.com	TRUE	/	FALSE	1735138578	__kdtv	t%3D1703516161544%3Bi%3D42e4fcdcc0d8bbd443a98f83c9954095a1901057
+.spotify.com	TRUE	/	FALSE	1735138578	_kdt	%7B%22t%22%3A1703516161544%2C%22i%22%3A%2242e4fcdcc0d8bbd443a98f83c9954095a1901057%22%7D
+.spotify.com	TRUE	/	FALSE	1738076215	_ga_S35RN5WNT2	GS1.1.1703515668.3.1.1703516215.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: bortolinidacostaaugusto@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 4
+Country: BR
+===========================================

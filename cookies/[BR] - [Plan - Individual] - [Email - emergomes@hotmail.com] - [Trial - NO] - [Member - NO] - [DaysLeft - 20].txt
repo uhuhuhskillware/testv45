@@ -1,0 +1,36 @@
+accounts.spotify.com	FALSE	/	TRUE	1755788789	__Host-device_id	AQAP9YJGnRWYlS8jbrVqPJMsguKiAlz_H1udTcZAg3gkJYgunwhYRhsHT1Gzoiy7DoPQSK2zB643BoxcJxmAwL0tv9R8XRtiC14
+.spotify.com	TRUE	/	TRUE	1752764970	sp_dc	AQA6Pg_WpDe2GbwEKl_d1sfLqckcxQ-kJNEWyLa8v4vzTaPn06kgQZLt6FM_XF_BbO9dmgnPg7zAO1c4rrAKC9kXMnM08BDmcwzWe2hxQR4huL6NIkSMZAirGT1w0GP6iyADQBuGd7yCEp_V54tTXhkRKSNZQ6qD
+.spotify.com	TRUE	/	TRUE	1752764970	sp_key	141aed49-abf9-4e4d-a603-00e55b6fa4cf
+.spotify.com	TRUE	/	FALSE	1752765527	OptanonAlertBoxClosed	2024-07-17T15:18:47.773Z
+.spotify.com	TRUE	/	FALSE	1755397638	_cs_c	0
+.spotify.com	TRUE	/	FALSE	1755420336	_scid	28741a6d-3dbc-4a5c-a268-d1450191896c
+.spotify.com	TRUE	/	TRUE	1726417637	sp_gaid	0088fcbfd55857189fbd7db778357a8836f891f159d4d9c628de37
+.spotify.com	TRUE	/	TRUE	1755875832	sp_m	us
+.spotify.com	TRUE	/	FALSE	1755011976	_tt_enable_cookie	1
+.spotify.com	TRUE	/	FALSE	1755011976	_ttp	Qq3ouDI8w0uzJILJUxTKFDv2o4t
+.spotify.com	TRUE	/	TRUE	1726499983	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+www.spotify.com	FALSE	/	TRUE	1752852075	ravelinDeviceId	rjs-caeb7742-78a5-4715-8e5d-5eb09ed30614
+.spotify.com	TRUE	/	FALSE	1752852221	_derived_epik	dj0yJnU9NG0zZHQyT2pKUDhzMUFJeWxPMU1pV2hSRkJNVUYzZGImbj1HQnNVUGxEOFFTVnJJRjZJbml6V1hRJm09MSZ0PUFBQUFBR2FaTTMwJnJtPTEmcnQ9QUFBQUFHYVpNMzAmc3A9Mg
+.spotify.com	TRUE	/	FALSE	1729092197	_fbp	fb.1.1721316197739.364576176695705071
+.spotify.com	TRUE	/	FALSE	1752852221	_pin_unauth	dWlkPU4ySmtNRFk1TURRdE56WmpNaTAwT0dNeUxUazFaV1F0TURVeFlUTmxPVFF5Wm1JeQ
+.spotify.com	TRUE	/	TRUE	1729092220	_rdt_uuid	1721316193581.36d7895f-e213-405a-bb6b-619844371ea3
+.spotify.com	TRUE	/	FALSE	1755397638	_cs_id	fb063180-84ec-aef4-f1ad-3b0691634e5d.1721233638.2.1721316228.1721315818.1.1755397638281.1
+.spotify.com	TRUE	/	FALSE	1755876235	_ga_S35RN5WNT2	GS1.1.1721315818.2.1.1721316235.0.0.0
+.spotify.com	TRUE	/	FALSE	1755502926	_scid_r	28741a6d-3dbc-4a5c-a268-d1450191896c
+.spotify.com	TRUE	/	FALSE	1755012169	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+12+2024+12%3A22%3A49+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BPR
+.spotify.com	TRUE	/	FALSE	1729004786	_gcl_au	1.1.1906220209.1721228786
+.spotify.com	TRUE	/	TRUE	1755012170	sp_adid	76eb4172-0a11-46f3-8056-cd9229e7f702
+.spotify.com	TRUE	/	TRUE	1755012167	sp_t	c15065b187f2a83bc3a13e528d15a6ec
+.spotify.com	TRUE	/	FALSE	1758036185	_ga	GA1.2.1163731412.1721228786
+.spotify.com	TRUE	/	FALSE	1758036185	_ga_BMC5VGR8YS	GS1.2.1723476170.3.1.1723476184.46.0.0
+.spotify.com	TRUE	/	FALSE	1758036188	_ga_ZWG1NSHWD8	GS1.1.1723476169.2.1.1723476187.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: emergomes@hotmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 20
+Country: BR
+===========================================

@@ -1,0 +1,25 @@
+accounts.spotify.com	FALSE	/	FALSE	1752686597	__Host-device_id	AQCGWwOX0p3xhx3xyW6eGo3vnNGWiux-degS9bF-lCq4mBfZWRarPmPz0L_bdLAzUn7XIqBCbgJacUyGPKs14XWCD9z_aG4sUdM
+.spotify.com	TRUE	/	TRUE	1749662630	OptanonAlertBoxClosed	2024-06-11T19:23:50.458Z
+.spotify.com	FALSE	/	FALSE	1754391494	sp_dc	AQAlnBCWpJgpj8qIiaHR7F4LOR-2s8gKmCuFEB9bOtzFEE8biVfQjaXPvyEXoJ6HUsw5dFt5p5FJZv1o-nbnzFa49mh0raMmttsuBcY5H7galm3ZCxzAo3XQTCAmjEqkrjJvXHTAhNmjrtpt3Y7a0WVN0PWouQo
+.spotify.com	TRUE	/	FALSE	1754391494	sp_key	589d24fa-2657-48ee-8c06-2b135b5ee867
+open.spotify.com	TRUE	/	TRUE	1758047544	muxData	mux_viewer_id=42ea34ae-cc22-4e39-a6ca-f72a01140958&msn=0.07563445108131628&sid=0ac3d444-30ef-4d2d-9c7f-885ddee81e0f&sst=1723494744830.8&sex=1723496244830.8
+.spotify.com	FALSE	/	FALSE	1723637784	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D4c7e71d2a59e89b02ad7824fe62d8c18%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1725900231	_gcl_au	1.1.835669304.1718131431
+.spotify.com	TRUE	/	FALSE	1755087404	sp_adid	ec19a523-562e-4aa0-aa83-8ebd2646266a
+open.spotify.com	TRUE	/	TRUE	0	sss	1
+.spotify.com	TRUE	/	TRUE	1755087406	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Aug+13+2024+11%3A16%3A46+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BMG
+.spotify.com	TRUE	/	FALSE	1755087556	sp_t	4c7e71d2a59e89b02ad7824fe62d8c18
+.spotify.com	TRUE	/	TRUE	1758112257	_ga	GA1.2.1230971658.1718131432
+.spotify.com	TRUE	/	TRUE	1758112257	_ga_BMC5VGR8YS	GS1.2.1723558606.107.1.1723559457.54.0.0
+.spotify.com	TRUE	/	TRUE	1723638657	_gid	GA1.2.1943519576.1723471353
+.spotify.com	TRUE	/	TRUE	1758114249	_ga_ZWG1NSHWD8	GS1.1.1723561449.319.0.1723561449.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: marcelo_nascimentoandrade@outlook.com
+Plan: Student
+Trial: NO
+Member: NO
+Days Left: 4
+Country: BR
+===========================================

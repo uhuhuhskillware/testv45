@@ -1,0 +1,16 @@
+accounts.spotify.com	FALSE	/	FALSE	1757555312	__Host-device_id	AQD3KGXaggKM51SZvd9Lg770_yFWVITQFP75OjXtiTt8mwt_cIfd983k74rd6s0OPY_DZeeiRQRbWRwxJVgEL79gohZooAyPTV0
+accounts.spotify.com	FALSE	/	FALSE	1722998999	__Host-sp_csrf_sid	ba6afcae3481e0bdd68b67df47658b2ceb93975866cdd43a2b01a5a4ab8490dd
+.spotify.com	FALSE	/	FALSE	1754531399	sp_dc	AQBJ1nmUNwSyGeT4ZmcZsq_dN29GLzPup8IdMH1JsAmrFWVYeI4RPYnDbWOGys0GqBK8jbqa9SVSuLi9Vf79ma-AAYlnOMupOaIy1SMnhl18NWf2dPO5OBWX7hg8NX1ghkXHcvZsjfEkE_SKK1CH04IHnBfEFs5OHAtqCx-OtKiA-QsYpejUHuyyV88n1UiVg2AfpFSiLjAutepoX_jUyl_Sa-XM
+.spotify.com	TRUE	/	FALSE	1754531399	sp_key	df95b004-adae-495f-8eff-cfacdcbcc116
+.spotify.com	FALSE	/	FALSE	1723081802	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3Db567480231aab2b3d9edad950c8d78ed%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1754531402	sp_t	b567480231aab2b3d9edad950c8d78ed
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: pedropanerari@santacruzmaringa.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 0
+Country: BR
+===========================================

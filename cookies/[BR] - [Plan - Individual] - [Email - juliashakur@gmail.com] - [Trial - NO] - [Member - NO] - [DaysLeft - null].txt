@@ -1,0 +1,39 @@
+.spotify.com	TRUE	/	TRUE	1753704708	OptanonAlertBoxClosed	2024-07-28T14:11:48.884Z
+.spotify.com	TRUE	/	TRUE	1753704711	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+28+2024+11%3A11%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&geolocation=BR%3BSP&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1756332705	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1756332705	_cs_id	bf3c0bef-06e7-aca2-db68-5cbba1ea0eb8.1722175905.1.1722175911.1722175905.1.1756339905495.1
+.spotify.com	TRUE	/	FALSE	1722170505	_cs_mk_ga	0.45449156795783585_1722175905373
+.spotify.com	TRUE	/	TRUE	1722170511	_cs_s	2.5.1.1722177711438
+.spotify.com	TRUE	/	TRUE	1756728711	_ga	GA1.1.1524622614.1722175906
+.spotify.com	TRUE	/	TRUE	1756728711	_ga_BMC5VGR8YS	GS1.2.1722175905.1.1.1722175911.54.0.0
+.spotify.com	TRUE	/	TRUE	1756728713	_ga_S35RN5WNT2	GS1.1.1722175905.1.1.1722175913.0.0.0
+.spotify.com	TRUE	/	TRUE	1729944705	_gcl_au	1.1.2028959895.1722175905
+.spotify.com	TRUE	/	TRUE	1722255111	_gid	GA1.2.720730219.1722175906
+.spotify.com	TRUE	/	TRUE	1756355403	_scid	d6ebf3a8-8e97-4775-886a-24e5f3027ac7
+.spotify.com	TRUE	/	TRUE	1756355409	_scid_r	d6ebf3a8-8e97-4775-886a-24e5f3027ac7
+.spotify.com	TRUE	/	FALSE	1753704711	sp_adid	e54c465c-fce1-4538-9873-12e7058c2a3e
+.spotify.com	FALSE	/	FALSE	1722255104	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fbr-pt%2Fdownload%2Fwindows%2F
+.spotify.com	FALSE	/	FALSE	1722255104	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	FALSE	/	FALSE	1756728704	sp_m	br-pt
+.spotify.com	TRUE	/	FALSE	1722255104	sp_new	1
+www.spotify.com	TRUE	/br-pt/download/windows	TRUE	0	sss	1
+accounts.spotify.com	FALSE	/	FALSE	1756729351	__Host-device_id	AQCyrpqgfsE4BufYLFw5mJXdexIiSEONBpliVxt5UHO0tecIxeBzzAopMeNF3rS2noQ7wdUz88781sPQin0zsMyY1IJ0sDbbPmc
+.accounts.spotify.com	FALSE	/	FALSE	0	__Secure-TPASESSION	AQAvqUNV9v5e9aCFb+ByIT1vgzYoLZMmBVaSk12N8WCx1JEXt76i3vpWIl45Cv+JcO8sfoSBg2yqhh9wYnQCIRA09tLh9nmVUfg=
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	true
+accounts.spotify.com	TRUE	/	FALSE	0	remember	juliashakur%40gmail.com
+accounts.spotify.com	FALSE	/	FALSE	1722173082	__Host-sp_csrf_sid	f5df05375ffdae59f182b5de4750936dfc5bcce21e2b0f2233610588232b01fc
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQDNLHhkcdZTsH9sw36LHepUWHWhDd2Bww0oD9GCTJDvIM3nk05aeBmFBGeag98RWpEH6D7gGP2iBOv5Bg
+.spotify.com	FALSE	/	FALSE	1753705482	sp_dc	AQDIG4OuiL3NYIQoD5EtACbJQvmOgy2JSgdoG6waqH8V0EgdJinHXp83YvssBDBdhLqSOvVKc8fZ4JSKOw8_Xm24SuGqDln7F02Awqcg5lbRkX3S9ydvtalPdskolDic4nXrCJ2jlgHvcLHau09m6kXyeixleMGWQtPx82mbS3t9tY8THyD_7RuuhZvOV2wIrTuWO1Bqll6faecnTU4vfBArt44y
+.spotify.com	TRUE	/	FALSE	1753705482	sp_key	f427cf92-8cd4-4ba8-a19f-6f1143cc344e
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_sso_csrf_token	013acda7196af33fa69f8ecf830acd9d1416a3f05931373232313736363832363731
+.spotify.com	TRUE	/	FALSE	1753705487	sp_t	a495ae86-f350-4443-bce0-bcee83916398
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: juliashakur@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: null
+Country: BR
+===========================================

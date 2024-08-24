@@ -1,0 +1,21 @@
+accounts.spotify.com	FALSE	/	FALSE	1757712165	__Host-device_id	AQBIeFM_ZdkEfVgTPmAjCiJdxQFEajCbsO4-laAKk-PrQy9hmbsNj2VJGhsYQHcRkQVPcFYZGGxoFo3Xw29d8ORyc3rYN1ch06E
+accounts.spotify.com	FALSE	/	FALSE	1723155777	__Host-sp_csrf_sid	dc679107b582eb3185514ef3d01bd19b6c2a18f7821af67febf766e4caa832e5
+.accounts.spotify.com	FALSE	/	FALSE	0	__Secure-TPASESSION	AQB/bsOCxR20IaXtlOkYkT0hnyN74s6Ip01qefEBEf9HD2OjFX4dRlL6pPVSdzGjcWGvXH4yTzv3ACd5SaEMT9maPmFIT5Qn99o=
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQBcVfEhlmRbey3BnH5hWQKd7o12fU31-hUotxWyukarZYMAu6_YQQvhyJclN4FlZ1Uxcn9h7PO7-2PyXw
+.spotify.com	FALSE	/	FALSE	1754688177	sp_dc	AQBVBSAqnD5Gh9Nbmt4v1Y0NVcIlZqTxXwW9Dl2qX1Ry7tqlxsxCGtALRh35EwHMOn6885jcqHTxRA6ze1FwZniyDLlY2CgJY9NJgH9hHvyE4A-8T2b6SJaLmhoCMXlbK56s05sWd7OlkwDwtjFlve9NGRBPUU4J7T_li58ovj0HkOOCh_PqFKtmOHZnA7kB_rNhNfpa8v_OpXj02n_esVo9mHk
+.spotify.com	TRUE	/	FALSE	1754688177	sp_key	262867ff-9512-4005-aa89-c39fbaf15ae8
+.spotify.com	FALSE	/	FALSE	1723238589	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3D735ccb952b2f9800ca7f080f366ad80e%26device%3Ddesktop
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_sso_csrf_token	013acda719289018678cd953b11e79d56ae9416c1831373233313539333737393336
+.spotify.com	TRUE	/	FALSE	1754688189	sp_t	735ccb952b2f9800ca7f080f366ad80e
+accounts.spotify.com	TRUE	/	TRUE	0	sp_t	5f587d09-8da9-4a01-94ac-ce599f2abf88
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	false
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: carlosludmerson07@gmail.com
+Plan: Individual
+Trial: YES
+Member: NO
+Days Left: 13
+Country: BR
+===========================================

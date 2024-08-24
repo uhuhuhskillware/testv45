@@ -1,0 +1,32 @@
+.spotify.com	TRUE	/	TRUE	1753510574	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+26+2024+05%3A16%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1756138574	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1756138574	_cs_id	aa31dd0e-ad6d-a734-a804-179507e17b89.1721981774.1.1721981774.1721981774.1.1756145774812.1
+.spotify.com	TRUE	/	TRUE	1756534574	_ga	GA1.1.739284024.1721981764
+.spotify.com	TRUE	/	TRUE	1756534575	_ga_BMC5VGR8YS	GS1.2.1721981764.1.1.1721981775.49.0.0
+.spotify.com	TRUE	/	TRUE	1756534570	_ga_ZWG1NSHWD8	GS1.1.1721981763.1.0.1721981770.0.0.0
+.spotify.com	TRUE	/	TRUE	1729750562	_gcl_au	1.1.902786787.1721981762
+.spotify.com	TRUE	/	TRUE	1756161272	_scid	fed288a0-9aca-49ef-a978-68a50771580b
+.spotify.com	TRUE	/	TRUE	1756161272	_scid_r	fed288a0-9aca-49ef-a978-68a50771580b
+.spotify.com	TRUE	/	FALSE	1753510574	sp_adid	164f9db7-eca8-4d3e-a77e-6a88dfaea6bd
+.spotify.com	FALSE	/	FALSE	1756534572	sp_m	br-pt
+open.spotify.com	TRUE	/	TRUE	0	sss	1
+www.spotify.com	TRUE	/br-pt/download/windows	TRUE	0	sss	1
+accounts.spotify.com	FALSE	/	FALSE	1756534646	__Host-device_id	AQAC5D2QK0uMdUsQ7qJCZ5WKlhbP-0tHBFXj-mtxFiVKSBgJd4v_PIGl7z3RXggXgkUJCqmKPwvRd2y5MuWhG9MoeNO0oyAIfJ8
+.accounts.spotify.com	FALSE	/	FALSE	0	__Secure-TPASESSION	AQBmF32mvF51aK9kCQvMFtuIkp5LVAZfs/jC7THRVndBQ/kPvWQq87Ndf6Q0fXRNSjCu5DsT1hRjZXuiwfn4lYwSZt9DLRXyt3A=
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQAlbScDPlSJS4pce25kFygGjKH8vlmUNoF8xZeMmx3Cr7Uglp587YF-06mwPU8DIsu3qb_lSS4-cgPeJ0A
+.spotify.com	FALSE	/	FALSE	1753510650	sp_dc	AQCwSENDaFBcmyaJ06CD_7aO_j3hh8JUj2ttuN1ALmb7qWsuVzSydOnfhssYQKKelYUk4pEZhm5xDs2iCMVrm0SOrUH7clZbbYtSmAYTEEVb3h4M1hUmsI3gO11PfOgw4sihVD3s_NYZLETf_72pmMJz7g0m2yADq4tD88saegK_Gd1CGUrgDSAS8qynn7QGY4URLybjH_11dmXKUOnDwWrWGnJw
+.spotify.com	TRUE	/	FALSE	1753510650	sp_key	87acbdbe-362f-40e1-a562-5577c1a56ffd
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_sso_csrf_token	013acda719719edc93f9e84f75e02b35874e63c6bb31373231393831383530333433
+.spotify.com	TRUE	/	FALSE	1753510654	sp_t	78d1f9401f868ea334be13643e092202
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	true
+.spotify.com	TRUE	/	TRUE	1756534772	_ga_S35RN5WNT2	GS1.1.1721981774.1.1.1721981972.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: kalblackbr@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 82
+Country: BR
+===========================================

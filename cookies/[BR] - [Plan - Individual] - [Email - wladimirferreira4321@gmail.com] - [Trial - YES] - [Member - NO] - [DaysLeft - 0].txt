@@ -1,0 +1,17 @@
+accounts.spotify.com	FALSE	/	TRUE	1756509075	__Host-device_id	AQDmBlnRsy-3SjNiX5birNAEmVjCQPd9Bfyr8p8xvJYqVsOiCoWLpD9du33hQ4BEfJLzuUQV0NUu7b2PkBZXaVe2FCrBDy493_A
+.spotify.com	TRUE	/	TRUE	1727133082	sp_gaid	0088fc82e887726c0e97ed07ae6d6f2b6a21799f9a0f5d92bf70fe
+.spotify.com	TRUE	/	TRUE	1727133083	sp_last_utm	%7B%22utm_campaign%22%3A%22msft_1%22%2C%22utm_medium%22%3A%22desktop-win32-store%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1756509082	sp_m	br-pt
+.spotify.com	TRUE	/	TRUE	1753485127	sp_dc	AQBHs0lR0t5N9zJCG2fViIBNKZ0qhW0xY_ujtvezy2A2J9GAXbHmSOi9DmFOI1q5TDqalSop1TuKgWVpbpBvF2s1H_ZtbyYaMF61zZukUo-0lT_vTh9-UxmNIphj8yW6caDiunN1B6htxOBJLYGEBOw_9Oqm0hD6
+.spotify.com	TRUE	/	TRUE	1753485127	sp_key	0e2c07aa-99f1-4fa9-b171-ebb43184c182
+.spotify.com	TRUE	/	TRUE	1755744017	sp_t	273143ef234548b918dbb6174b918b47
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: wladimirferreira4321@gmail.com
+Plan: Individual
+Trial: YES
+Member: NO
+Days Left: 0
+Country: BR
+===========================================

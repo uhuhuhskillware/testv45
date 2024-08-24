@@ -1,0 +1,20 @@
+accounts.spotify.com	FALSE	/	TRUE	1738610081	__Host-device_id	AQDfQXxkf617fj4eXN-aRgRCs5Pzv7YJa96ziOWUj_6waDXye4onuf6SFa-6V_5SDZ6dhdWR25lXt50TI83ZCg2ThaVfmrl3oIo
+.accounts.spotify.com	TRUE	/	TRUE	0	__Secure-TPASESSION	AQDD0KGUaA90YQ0N8a7B+GWy+5Wb2tCYDUrerJfiex2MLMMci/kZ9InXn6aWQ+G7R+DMdN00mR6fq+aMcmUYd/O3C1v6x9Bu0b8=
+.spotify.com	TRUE	/	TRUE	1752788442	sp_t	563cdce4b558d8eb86feb602f4cafe27
+.spotify.com	TRUE	/	TRUE	1737039195	sp_adid	85c45c91-60d3-4778-8dad-605d8dca7763
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	false
+accounts.spotify.com	FALSE	/	TRUE	0	remember	Mateuszinhobraz
+.spotify.com	TRUE	/	TRUE	1752788438	sp_dc	AQBwxRO2iLQC4LhSuwV6ggb6tR-XiJLuhdyuYA0ibdcrHwtL_C3gGPyvZUO7c-z_DMSgYKFBDqLPucypP9GoVa1VBYQtZJemP826FV7qkt9eE5AjNBYLHy6eDUO0SUmuWAosn5pn7VEkc4vm-iUSjT0YfRmFNL5r8gIAh5gnEwm2JvJWBVKNGX5lsEW87KWh9kp-vLKDPrCaZBtJ_kq6kMfcxtjm
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_sso_csrf_token	013acda719c5be2c859f0b7d2ab1b4acfdccd2ff2431373231323532343233353533
+.spotify.com	TRUE	/	TRUE	1752788438	sp_key	3f0bc24d-8751-46a9-8198-4a0c68762695
+.accounts.spotify.com	TRUE	/	TRUE	0	csrf_token	AQAUIUWcwDBlabg_hfR10eyt0pjHZ-B5FvZU_JO5mqZRol7RNh6NDCfpt6wcz8ZoehuXUcW2PCjtULma0fjhvcDiJtQ7PHajR86yggyjZWGnEZX0WQ
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: leeeesaraaaa@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: null
+Country: BR
+===========================================

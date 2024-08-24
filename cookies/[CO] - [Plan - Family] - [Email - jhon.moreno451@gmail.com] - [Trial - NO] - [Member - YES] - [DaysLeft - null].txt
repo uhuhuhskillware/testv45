@@ -1,0 +1,15 @@
+accounts.spotify.com	FALSE	/	TRUE	1758145825	__Host-device_id	AQA1q9725zm6X_aiWUAOKNGViLZbxTqe9NbtJQhjDtlpjVYLrGUDep1Og6w0wc6xUCUhCa4HXNO1Sbqv0UVYPMhBrBpSPpQOa7w
+.spotify.com	TRUE	/	TRUE	1758210780	sp_m	co-es
+.spotify.com	TRUE	/	TRUE	1755186982	sp_dc	AQDjyamuEMt_bKOcK__SNxBHYUOIs_Dcs-6r9ON8-BxSic9uVdoEM4SciaLCFcwulPQyhN43v874qoOi2SUvUMmpl30Qmd9RXWwF_vgmXybYY1nyiD8wemSHu7oGwrBBER8BAs7wsTpnv7mZHRH-7yOtdFKqxm5g
+.spotify.com	TRUE	/	TRUE	1755186982	sp_key	6f03b299-2355-43ea-9721-8d3c8cc480c7
+.spotify.com	TRUE	/	TRUE	1755186985	sp_t	ee72debc6314b3a931b1141f6ca0488c
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: jhon.moreno451@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: CO
+===========================================

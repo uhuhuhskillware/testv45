@@ -1,0 +1,24 @@
+.spotify.com	TRUE	/	TRUE	1748305577	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+26+2024+19%3A26%3A17+GMT-0700+(Pacific+Daylight+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2F&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+accounts.spotify.com	FALSE	/	FALSE	1751329561	__Host-device_id	AQARuQbX013ZO_KJpny_7DW9DJkp1jAXFQuX2Q5UUezgdlaHp4bG5-SjpJ_nGIqwRcazdW54iZE8PhHmZdr1ALtoAvJSGf7j0fo
+.spotify.com	TRUE	/	TRUE	1724545576	_gcl_au	1.1.1328476415.1716776777
+.open.spotify.com	TRUE	/	TRUE	1748305578	_pin_unauth	dWlkPU56UmxOR1F4TnpRdE5tRm1ZaTAwTmpObUxUa3habU10TlRrNVltTm1aR1JrTXprMQ
+.spotify.com	TRUE	/	FALSE	1748305577	sp_adid	ed36557a-e22c-4aec-9641-37d90c31f820
+.spotify.com	FALSE	/	FALSE	1748305570	sp_dc	AQCWKU4aVNruowMU3h_sqE4qGckBKHLYxMei10TnrHof0fo4QGQO0HX7urdDLS_hsZhJ0gzbXH4BvoMRUiX4GAkHipdLxMmFP385JvFF9QPlypvnwJT-rItBoXTerYQsaOro8BOaVAxlNFkilLALcm1I6BbrFD-ZZ5My_pQXPg65bta8l49xoRGvZMGXQgAkF-PXEcEl7etCoR161u8D9gM_RIE
+.spotify.com	TRUE	/	FALSE	1748305570	sp_key	e8f3738c-61aa-4e33-a565-7b850487d097
+.spotify.com	TRUE	/	TRUE	1751329596	_ga_ZWG1NSHWD8	GS1.1.1716776777.1.1.1716776796.0.0.0
+accounts.spotify.com	FALSE	/	FALSE	1717193944	__Host-sp_csrf_sid	a60e14f90e9e5fa89d9067434371aa19dd89979b8276d7e89628427c6b01786a
+.spotify.com	TRUE	/	TRUE	1751750345	_ga	GA1.2.939382664.1716776777
+.spotify.com	TRUE	/	TRUE	1717190405	_gat	1
+.spotify.com	TRUE	/	TRUE	1717276745	_gid	GA1.2.2005947938.1717197545
+.spotify.com	FALSE	/	FALSE	1717276747	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3D1ec5f5053f78de19417e911f2cf0b2aa%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1748726347	sp_t	1ec5f5053f78de19417e911f2cf0b2aa
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: drummerboy0509@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: CA
+===========================================

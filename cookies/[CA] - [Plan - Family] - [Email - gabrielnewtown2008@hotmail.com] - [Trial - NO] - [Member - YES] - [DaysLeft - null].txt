@@ -1,0 +1,25 @@
+.spotify.com	FALSE	/	FALSE	1742427771	sp_m	us
+.spotify.com	TRUE	/	TRUE	1742031772	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1742054470	_scid	606cc1d9-b319-428a-9148-36d499b58deb
+.spotify.com	TRUE	/	TRUE	1741563772	_tt_enable_cookie	1
+.spotify.com	TRUE	/	TRUE	1741563772	_ttp	gDiobQWmri5jtBGFNGH8IgfCXiK
+.spotify.com	TRUE	/	TRUE	1742054471	_sctr	1%7C1707800400000
+.spotify.com	TRUE	/	TRUE	1742054662	_scid_r	606cc1d9-b319-428a-9148-36d499b58deb
+.spotify.com	TRUE	/	TRUE	1742031772	_cs_id	b7a178ab-027e-a9f4-dff7-090cba65442e.1707874972.1.1707875164.1707874972.1.1742038972309.1
+.spotify.com	TRUE	/	TRUE	1739403968	OptanonAlertBoxClosed	2024-02-14T01:46:08.842Z
+.spotify.com	TRUE	/	TRUE	1739403968	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+13+2024+20%3A46%3A08+GMT-0500+(Eastern+Standard+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+accounts.spotify.com	FALSE	/	FALSE	1742427999	__Host-device_id	AQAwt3oK7Beq3CYMbYNkS8gMknpyzq4zEf2O8I265L48jTgnHAPG_XKpRQrh4Z_7BbT6oflDrlIC9s7v4G0xka1BmFGUWDCpLKI
+.spotify.com	FALSE	/	FALSE	1739404035	sp_dc	AQDANFHS4XMuxCJCJFXbgTtwKaVf-FEiEHKXyD2axcQW5VDSCfLMFXfJp1YLPvEZAKHyFtWBh-I2wpMyh5lwKauz_klIIJGtRbZ4y4NW72pCBv5RY91tKeqiSgp8Oj7EuDwuKbs9hQCreoqLHHkxz0gtj_Rq6Dw
+.spotify.com	TRUE	/	FALSE	1739404035	sp_key	c1a1fafd-5b23-4ce9-a000-f2313b61e0de
+.spotify.com	TRUE	/	FALSE	1739404039	sp_t	fa55f6f4ab66823e97337aa2bf7a105c
+.spotify.com	TRUE	/	TRUE	1742428064	_ga_S35RN5WNT2	GS1.1.1707874972.1.1.1707875264.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: gabrielnewtown2008@hotmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: CA
+===========================================

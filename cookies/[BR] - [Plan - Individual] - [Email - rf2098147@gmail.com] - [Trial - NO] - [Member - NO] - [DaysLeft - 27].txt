@@ -1,0 +1,25 @@
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	false
+accounts.spotify.com	FALSE	/	TRUE	1729598638	__Host-device_id	AQCbXg-z8Rav6a7WATUD20rZLJYUMHYR6pOwrA5U3uugCQG2WNZMBrFB-u-cb1zQCk00Ft8k6jUyaruuSBbpUM6bSUa87ycCe54
+.accounts.spotify.com	TRUE	/	TRUE	0	__Secure-TPASESSION	AQCkNl56d60TuMkWpskeSSc+Q0GDqTRbnN1+4i+ixjTWB0EUe70Yrl6LRjVFsy2Gx2tjxs5NBB1CxTN2jOIu/yJh+xlXplqgCdM=
+.spotify.com	TRUE	/	TRUE	1731095797	sp_dc	AQA11eR8iUXrQGYNYJSXgzR-DP9ad4WRFur0Eq-nqymG2I21N3mK4-ziSvvIE32AAuS4FqhDxfITmeUjbBPylkl4ez1P_Ki18MJBupFcKguF5Vx6fs8QxPNxU8HOuZgwCAWDwkMo8cd4gAq5qLh3lFF6m4qSH5pLijenH2q7JpTwthrxTubrp_Tc_Ufk9EJIwspGLGRuuFB9l3Nj0zCCAsWXLg7k
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_sso_csrf_token	013acda719d782f32f3c92609a3f91afb4c589f95631363939353539373936313533
+.spotify.com	TRUE	/	TRUE	1731095797	sp_key	3177fb05-eb36-430a-bbe4-dfe771a488de
+.accounts.spotify.com	TRUE	/	TRUE	0	csrf_token	AQApuKofR7BGk0dD-uHhtlVFW9H815aoUaU8LNG0Yj3dEzBSqq9BYUXNiN-SZsVocRveds3VmpaT7s04VoktiWfvGZhIMTTLu4ajfysvpKgnUsTg
+.spotify.com	TRUE	/	TRUE	1733025853	sp_t	534e4244ae69f1a698050d2850c10b06
+open.spotify.com	FALSE	/playlist	FALSE	0	sss	1
+.spotify.com	TRUE	/	TRUE	1733025857	sp_adid	abaf6469-7197-4345-ad11-a146dcfd335f
+open.spotify.com	FALSE	/user	FALSE	0	sss	1
+.spotify.com	TRUE	/	FALSE	1736049869	_ga	GA1.2.503674170.1700028128
+.spotify.com	TRUE	/	FALSE	1733025872	OptanonAlertBoxClosed	2023-12-02T04:04:32.620Z
+.spotify.com	TRUE	/	FALSE	1733025872	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+02+2023+01%3A04%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1736049888	_ga_ZWG1NSHWD8	GS1.1.1701489857.3.1.1701489888.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: rf2098147@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 27
+Country: BR
+===========================================

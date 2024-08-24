@@ -1,0 +1,28 @@
+.spotify.com	TRUE	/	TRUE	1729476309	sp_t	9ada261fbe77510f487b382cb6ed6ba9
+.spotify.com	TRUE	/	TRUE	1737509210	sp_adid	c030e3d0-a0cb-4692-8d63-5817402583e4
+accounts.spotify.com	FALSE	/	TRUE	1727639738	__Host-device_id	AQAO2B2nTj8oGriaD0HctUqwqvehNUKfF9Ryc_Q1-XPT_yK6JgcMQxoDB3vyQQp3x4JFF5KRvuvRBvv94sj9wNN6vYB6Sn-Ehlk
+.spotify.com	TRUE	/	FALSE	1727243770	_cs_c	0
+.spotify.com	TRUE	/	FALSE	1727266468	_scid	d304b411-2c7c-4f83-8123-3f02fb03d99d
+www.spotify.com	FALSE	/	TRUE	1737509209	ravelinDeviceId	rjs-fd8f943e-020a-4890-9951-309c2fc65ebf
+.spotify.com	TRUE	/	FALSE	1737595602	__kdtv	t%3D1693079818178%3Bi%3D8cafedafc208c86b894de18f2f19a4c8cfcbb0d3
+.spotify.com	TRUE	/	FALSE	1737595602	_kdt	%7B%22t%22%3A1693079818178%2C%22i%22%3A%228cafedafc208c86b894de18f2f19a4c8cfcbb0d3%22%7D
+.spotify.com	TRUE	/	TRUE	1729476309	sp_dc	AQBFUadA384kfg2PTevCrk3XF-i7rqlR_rwUTHdPfMn-gkmau6q4wAzVSjeFPPoA99ELrQ3ZfEyHcDXuBkMoeE-uGlsSFSUIk7xFUKhNJVLDXOgCBo8XbrcYT8eEynrOI6PPvhNI_c_vskfK2dslOC6zwo2jKFfn
+.spotify.com	TRUE	/	TRUE	1729476309	sp_key	4bf3ed52-55e7-4005-a9e7-b1c25febc411
+.spotify.com	TRUE	/	FALSE	1732500451	_ga_ZWG1NSHWD8	GS1.1.1697940245.3.1.1697940450.0.0.0
+.spotify.com	TRUE	/	FALSE	1740159857	_sctr	1%7C1705892400000
+.spotify.com	TRUE	/	TRUE	1740533209	sp_m	cl
+.spotify.com	TRUE	/	FALSE	1737509209	OptanonConsent	isIABGlobal=false&datestamp=Mon+Jan+22+2024+22%3A26%3A49+GMT-0300+(hora+de+verano+de+Chile)&version=202309.1.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&geolocation=CL%3BLR&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0
+.spotify.com	TRUE	/	FALSE	1740533210	_ga	GA1.2.114706756.1690512807
+.spotify.com	TRUE	/	FALSE	1740159907	_scid_r	d304b411-2c7c-4f83-8123-3f02fb03d99d
+.spotify.com	TRUE	/	FALSE	1727243770	_cs_id	853e3ff9-a339-af9b-c910-c840e0b125a4.1693079770.3.1705973209.1705973158.1.1727243770858.1
+.spotify.com	TRUE	/	FALSE	1740533227	_ga_S35RN5WNT2	GS1.1.1705973157.3.1.1705973226.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: reichervargas@gmail.com
+Plan: Family
+Trial: NO
+Member: NO
+Days Left: 26
+Country: CL
+===========================================

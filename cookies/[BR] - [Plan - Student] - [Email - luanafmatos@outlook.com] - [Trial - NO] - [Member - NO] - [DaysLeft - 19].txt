@@ -1,0 +1,43 @@
+.spotify.com	FALSE	/	FALSE	1736776490	sp_m	br-pt
+www.spotify.com	TRUE	/br-pt/premium	TRUE	1733838892	sp_t	303d3314-b642-42b0-b1ee-a10b4254f4c9
+.spotify.com	TRUE	/	FALSE	1740059328	sp_t	2410e8e2-e279-4a73-8662-bdf4cb4969df
+.spotify.com	TRUE	/	TRUE	1709992494	_gcl_au	1.1.1298426201.1702223694
+.spotify.com	TRUE	/	TRUE	1736403191	_scid	ccdb807d-e453-4581-b268-204dd663942b
+.spotify.com	TRUE	/	TRUE	1736380494	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1735912494	_tt_enable_cookie	1
+.spotify.com	TRUE	/	TRUE	1735912494	_ttp	nv0PZGAVV1y4LCBjsOMxDYzST_7
+.spotify.com	TRUE	/	FALSE	1734021353	sp_adid	267ad4f9-78cc-4a11-8bac-682eaec589eb
+accounts.spotify.com	FALSE	/	FALSE	1736776495	__Host-device_id	AQBqVvnU_VlJPVqvsIV6xBUrrwnJ4voRjxGaN56VEpoYzH2rrEokxLXLZACoOIGk04LbotoUWvy2-0ADjcUCtyUqY4IjiwLH7Fk
+.spotify.com	TRUE	/	TRUE	1733752559	OptanonAlertBoxClosed	2023-12-10T15:55:59.565Z
+.spotify.com	FALSE	/	FALSE	1733753112	sp_dc	AQCb5t-FWZI8y0-YazrttSzKeOfk8HI9YIDQGAMVfQsWCNl77WGY0IVis0226CXcorcunEtBYUheLUFEyQmqAIGXuUtE61kGzW9_R3QI3KU57_YCutRv4xscKifHnY5XAWgRg_t_82ircD9t4Mr2Zd62LxSIlT-9
+.spotify.com	TRUE	/	FALSE	1733753112	sp_key	dcc15cf4-99f3-4e94-8daa-8bf59e063edf
+.spotify.com	TRUE	/	TRUE	1710261269	_gcl_aw	GCL.1702492469.EAIaIQobChMIiaXWsZ2FgwMVX1xIAB3tTQRqEAAYASAAEgKZQPD_BwE
+.spotify.com	TRUE	/	TRUE	1710261269	_gcl_dc	GCL.1702492469.EAIaIQobChMIiaXWsZ2FgwMVX1xIAB3tTQRqEAAYASAAEgKZQPD_BwE
+.spotify.com	TRUE	/	TRUE	1710261270	_gac_UA-5784146-31	1.1702492470.EAIaIQobChMIiaXWsZ2FgwMVX1xIAB3tTQRqEAAYASAAEgKZQPD_BwE
+www.spotify.com	TRUE	/	FALSE	1734021455	ravelinDeviceId	rjs-23568242-b30c-4e9c-a528-e27a7302c956
+.spotify.com	TRUE	/	FALSE	1710261344	_rdt_uuid	1702492544221.b24da6ae-33e1-4bd7-bc60-31dda5d882f1
+.spotify.com	TRUE	/	TRUE	1734107842	__kdtv	t%3D1702492642894%3Bi%3D8f69dfea12a23b43ac40a2631276fd59494065ee
+.spotify.com	TRUE	/	TRUE	1734107842	_kdt	%7B%22t%22%3A1702492642894%2C%22i%22%3A%228f69dfea12a23b43ac40a2631276fd59494065ee%22%7D
+.spotify.com	TRUE	/	TRUE	1737045469	_ga_S35RN5WNT2	GS1.1.1702492314.2.1.1702492669.0.0.0
+.support.spotify.com	TRUE	/	TRUE	1734021500	_pin_unauth	dWlkPVl6ZzJOVFEwWTJZdFptVTFaUzAwTXpWakxUaGxOamN0WVRZMU5HUmpNakUzWlRRMg
+.spotify.com	TRUE	/	TRUE	1737045502	LPVID	YyZWIxNWExZGUxY2YyMDE0
+.spotify.com	TRUE	/	TRUE	1736672197	_scid_r	ccdb807d-e453-4581-b268-204dd663942b
+.spotify.com	TRUE	/	TRUE	1736380494	_cs_id	c628e3fa-5f72-ae06-f04d-9a841f74d4db.1702223694.2.1702492699.1702492316.1.1736387694015
+.spotify.com	TRUE	/	TRUE	1737045518	_ga_S0T2DJJFZM	GS1.1.1702492672.1.1.1702492718.0.0.0
+.spotify.com	FALSE	/	FALSE	1708609729	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fshow%2F3MyFcLlKhKequpHll6qpue%3Fsp_cid%3D2410e8e2-e279-4a73-8662-bdf4cb4969df%26device%3Ddesktop%26si%3DPBuH_f7aRWua2z9riwgpIg
+.spotify.com	TRUE	/	TRUE	1740059332	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+21+2024+12%3A48%3A52+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BDF
+.spotify.com	TRUE	/	TRUE	1743083359	_ga	GA1.2.290524749.1702223694
+.spotify.com	TRUE	/	TRUE	1708609759	_gid	GA1.2.2050991246.1708530533
+.spotify.com	TRUE	/	TRUE	1708523392	_gat_UA-5784146-31	1
+.open.spotify.com	TRUE	/	TRUE	1740059333	_pin_unauth	dWlkPVl6ZzJOVFEwWTJZdFptVTFaUzAwTXpWakxUaGxOamN0WVRZMU5HUmpNakUzWlRRMg
+.spotify.com	TRUE	/	TRUE	1743083362	_ga_ZWG1NSHWD8	GS1.1.1708530532.1.1.1708530562.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: luanafmatos@outlook.com
+Plan: Student
+Trial: NO
+Member: NO
+Days Left: 19
+Country: BR
+===========================================

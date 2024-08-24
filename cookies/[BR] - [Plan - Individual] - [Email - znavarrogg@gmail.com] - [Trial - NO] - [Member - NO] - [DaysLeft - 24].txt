@@ -1,0 +1,31 @@
+accounts.spotify.com	FALSE	/	FALSE	1757429368	__Host-device_id	AQCevlGVwicBlBc1Vsfh5LfFSU0SsmEdbyJcNdrExlX9V6QC8NyrM6DVegYSVTVa-5jJfi5b4fIG-8RhwP9ycH0u-Ut512aZvnQ
+.accounts.spotify.com	FALSE	/	FALSE	0	__Secure-TPASESSION	AQCOOqkd95ZQ5LXdpDoaGVPsqy1XVF6VNrOLcDn0i2e4UW7W8zsFGbreKcK1DS2/uV3RpHUOPbPjnH8KMQvLbQzwCeJnyMXrC7c=
+accounts.spotify.com	TRUE	/	TRUE	0	sp_t	03bac0bb-2e0f-460a-adff-1d03d3e3e36a
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	false
+accounts.spotify.com	TRUE	/	FALSE	0	remember	znavarrogg%40gmail.com
+.spotify.com	FALSE	/	FALSE	1754405498	sp_dc	AQAty-6SaJR7HkI1Nb7jJtDB1u8cNRJG4hWPfVZYWllvXsRWiC11FeajSAemxvIHRDhew30fZxh7dH5t0FruF5TVEp6_mHWJ0j_mIf5GxOtlMo1PIVNaIIFygn4wmxewOnowbG-STC83exGb-af2FKRosuAZ_j8J
+.spotify.com	TRUE	/	FALSE	1754405498	sp_key	c1d83be2-40b2-4156-b7d8-119563007f7d
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQD3-8qu5DQTEUjFQEOLIez4gUl5bOWkzBHKAD6wFNwsWhCsO7OPBj1d1UnOxp2dfU3WRFRbP2rroGbtccecLt6Pk36Hk6FjzZpXWI1IlpZ5SVg4
+.spotify.com	FALSE	/	FALSE	1722955915	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3D01dcda2fea5f734461585caa5de262c9%26device%3Ddesktop
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_sso_csrf_token	013acda7199bcefcfb33438032ddef7edbb23eaff531373232383736373136343936
+.spotify.com	TRUE	/	TRUE	1754422017	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+05+2024+18%3A26%3A57+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2Fintl-pt&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+.spotify.com	TRUE	/	FALSE	1722887816	_cs_mk_ga	0.8251862095307443_1722893216891
+.spotify.com	TRUE	/	TRUE	1757446017	_ga	GA1.1.1489364272.1722893217
+.spotify.com	TRUE	/	TRUE	1757446018	_ga_BMC5VGR8YS	GS1.2.1722893218.1.0.1722893218.60.0.0
+.spotify.com	TRUE	/	TRUE	1757446021	_ga_ZWG1NSHWD8	GS1.1.1722893217.1.0.1722893221.0.0.0
+.spotify.com	TRUE	/	TRUE	1722886077	_gat_UA-5784146-31	1
+.spotify.com	TRUE	/	TRUE	1730662016	_gcl_au	1.1.264190604.1722893217
+.spotify.com	TRUE	/	TRUE	1722972417	_gid	GA1.2.444435499.1722893217
+.spotify.com	TRUE	/	FALSE	1754422017	sp_adid	fc283337-9fab-4c7c-bd20-9086eee079f7
+.spotify.com	TRUE	/	FALSE	1754422014	sp_t	01dcda2fea5f734461585caa5de262c9
+open.spotify.com	TRUE	/	TRUE	0	sss	1
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: znavarrogg@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 24
+Country: BR
+===========================================

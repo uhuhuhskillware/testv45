@@ -1,0 +1,23 @@
+accounts.spotify.com	FALSE	/	FALSE	1757764603	__Host-device_id	AQArAo2S3bB6sGIXOYQiCi15StW3RSIOqAaghzWgJl4-PIG51Uzjc1SQ-0vYs04MK861C41HPWtPtHRiU3Rf-dd4qRlpev2BMXk
+.spotify.com	FALSE	/	FALSE	1754740613	sp_dc	AQBxKpCO6Knrt5NT9TCg4SXhUmLJm_0sKQqOMaEd04UJ3GvdjRkrWABUHXmW_Jo3TGFSVS3rLS7Shld-cuNfIw1Z2JB3KbAjQstmT6sdYajlK-RsmtWQiU8lQQEYRUveUN84lr-c7ZRREsRYimJD3Aes
+.spotify.com	TRUE	/	FALSE	1754740613	sp_key	d45f3649-85ef-4e37-b733-77c065a9501d
+.spotify.com	FALSE	/	FALSE	1723291015	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3Dc32f00ce89e0425c04326a3b4d45ae28%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1754754452	OptanonAlertBoxClosed	2024-08-09T17:47:32.597Z
+.spotify.com	TRUE	/	TRUE	1754754452	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+09+2024+14%3A47%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+.spotify.com	TRUE	/	TRUE	1730994443	_gcl_au	1.1.1696916489.1723225644
+.spotify.com	TRUE	/	FALSE	1754754445	sp_adid	e1580408-557a-445d-9cd3-569698544e78
+.spotify.com	TRUE	/	FALSE	1754754441	sp_t	c32f00ce89e0425c04326a3b4d45ae28
+.spotify.com	TRUE	/	TRUE	1757778484	_ga	GA1.2.1307216638.1723225644
+.spotify.com	TRUE	/	TRUE	1757778484	_ga_BMC5VGR8YS	GS1.2.1723225645.1.1.1723225684.21.0.0
+.spotify.com	TRUE	/	TRUE	1757778493	_ga_ZWG1NSHWD8	GS1.1.1723225643.1.1.1723225693.0.0.0
+.spotify.com	TRUE	/	TRUE	1723304884	_gid	GA1.2.1362165293.1723225645
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: heyberfabiez@hotmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: null
+Country: BR
+===========================================

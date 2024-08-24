@@ -1,0 +1,45 @@
+open.spotify.com	TRUE	/	TRUE	0	sss	1
+accounts.spotify.com	FALSE	/	FALSE	0	__HOST-sp_fid	a3be5052-d537-41b9-bb6c-5bba2feb54c5
+.accounts.spotify.com	FALSE	/	FALSE	0	__Secure-TPASESSION	AQBDL8lMhPYcBVUADc6ymHvomfegsX33sGwZSTjpmKftfy6BcE0rTzE/ugCPkdu8FLIR/aArCkGvkwTYNqW6OEZlynxegTHDBZw=
+accounts.spotify.com	TRUE	/	FALSE	0	remember	antoniokayo%40gmail.com
+open.spotify.com	TRUE	/playlist	TRUE	0	sss	1
+open.spotify.com	TRUE	/artist	TRUE	0	sss	1
+open.spotify.com	TRUE	/album	TRUE	0	sss	1
+open.spotify.com	TRUE	/collection	TRUE	0	sss	1
+open.spotify.com	TRUE	/search	TRUE	0	sss	1
+open.spotify.com	TRUE	/track	TRUE	0	sss	1
+open.spotify.com	TRUE	/genre	TRUE	0	sss	1
+.spotify.com	FALSE	/	FALSE	1729770114	sp_m	br-pt
+.spotify.com	TRUE	/	FALSE	1726746114	sp_t	95dfbfd7-d098-47ce-94ea-c06f755a68ec
+.spotify.com	TRUE	/	FALSE	1731332407	sp_adid	ca55d4ec-8e39-42f5-a9ce-588dfd88c67b
+www.spotify.com	TRUE	/br-pt/account/overview	TRUE	0	sss	1
+.spotify.com	TRUE	/	TRUE	1733771635	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1733794333	_scid	6167aa7a-2bc8-4e30-b0c5-ce68b8bf08e8
+www.spotify.com	TRUE	/br-pt/account/manage-your-plan	TRUE	0	sss	1
+www.spotify.com	TRUE	/br-pt/account/apps	TRUE	0	sss	1
+www.spotify.com	TRUE	/br-pt/download/windows	TRUE	0	sss	1
+.spotify.com	TRUE	/	TRUE	1731143727	OptanonAlertBoxClosed	2023-11-10T11:15:27.977Z
+www.spotify.com	TRUE	/br-pt/account/set-device-password	TRUE	0	sss	1
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	true
+www.spotify.com	TRUE	/br-pt/account/sign-out-everywhere	TRUE	0	sss	1
+.spotify.com	TRUE	/	TRUE	1733983074	_scid_r	6167aa7a-2bc8-4e30-b0c5-ce68b8bf08e8
+.spotify.com	TRUE	/	TRUE	1733771635	_cs_id	7932ff6e-06b0-a18e-89e0-d24a8fdc04a2.1699614835.2.1699803576.1699803572.1.1733778835558
+.spotify.com	TRUE	/	TRUE	1734356379	_ga_S35RN5WNT2	GS1.1.1699803572.2.1.1699803579.0.0.0
+open.spotify.com	TRUE	/__noul__	TRUE	0	sss	1
+.spotify.com	FALSE	/	FALSE	1731332402	sp_dc	AQDjFAjFj1Du7ePWwfWc55FX8EuB4XuoWPbGsyV6jgrCt7Mts97S5RqLvhFk1NiUhopSf1mpiilrPcDL8QOIV1yd48_SE0O0E-pJdBHmmgIKYkZky02cCBCpMAQxiun7LUCd5Tfmhmk4Fbe39wJuXWNQ3gQBJfSj
+.spotify.com	TRUE	/	FALSE	1731332402	sp_key	072700f6-2a70-4641-a7ce-41199ecf950f
+.spotify.com	TRUE	/	TRUE	1734356407	_ga	GA1.2.1214111882.1699614825
+.spotify.com	TRUE	/	TRUE	1734356407	_ga_ZWG1NSHWD8	GS1.1.1699803581.2.1.1699803607.0.0.0
+.spotify.com	TRUE	/	TRUE	1731332407	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+12+2023+12%3A40%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1&AwaitingReconsent=false&geolocation=BR%3BAM
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_sso_csrf_token	013acda719cf9c2ec502c709eacdff17e679862c5231363939383835363133353737
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQCccmrAkXW-xXiUlC62Np4N7Bz8mnKvkK5qmh3uLqngPx3HfGa1Cucjgi1Nijn_s4jXAbh9WdsLftJSjto4OZ4mZjNCtBspMoAjsat38I1nrCnHwQ
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: antoniokayo@gmail.com
+Plan: Individual
+Trial: Not Found
+Member: IDK
+Days Left: null
+Country: BR
+===========================================

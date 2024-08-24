@@ -1,0 +1,58 @@
+.spotify.com	FALSE	/	FALSE	1837792674	sp_m	br-pt
+.spotify.com	TRUE	/	FALSE	1722362274	sp_new	1
+.spotify.com	FALSE	/	FALSE	1722362274	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fbr-pt%2Fstudent%2Fverification%2F
+accounts.spotify.com	FALSE	/	FALSE	3869759522	__Host-device_id	AQCvNTI9NEL_vc8l9xYTwcXuGtPZJ4PViuaCr_NXCvONoPUIbmU3RPA34layaqt0cFqTg1oUVzxzl4qd5YFy-ulNtpuidPV2huo
+.spotify.com	FALSE	/	FALSE	1753811883	sp_dc	AQABtW4NKYXWf1Q5z7bppNBNSSUH-swj9jOz8Q6xxGPMr-iwRBdPIXRK-Br4bFz7FolXxXGLTPllYYcR0v5M7smZYHkZg55NEF1PDhjFpV9tMPuya7Oc8A82LdKJRbabHKSBozeFSxYLaoJxbxFkmgsmlu5OJCna_-C4C56MRqYCQxvuOQYOnc3vJsGbvFNTNcX_ZXKcZN-ERoYIHw9bvbU3BgbJ
+.spotify.com	TRUE	/	FALSE	1753811883	sp_key	6777a0dc-dc36-4ccf-8a2b-31b93fbf1d89
+accounts.spotify.com	FALSE	/	FALSE	1722279483	__Host-sp_csrf_sid	e9cdfaa471cd9cc24d671e89d07e86dd9da58341f207bfcc239a9f5bd4c90ec6
+.spotify.com	TRUE	/	FALSE	1727459883	sp_gaid	0088fce8b121cfa11d8c3080d985ceef2efe0f5b462455bd6c72c9
+.spotify.com	TRUE	/	TRUE	1730051886	_gcl_au	1.1.777413786.1722275886
+.spotify.com	TRUE	/	TRUE	1756462585	_scid	67e6a61c-26fb-4da0-b0b2-e97f256d75cf
+.spotify.com	TRUE	/	TRUE	1756439891	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1753811899	OptanonAlertBoxClosed	2024-07-29T17:58:19.295Z
+.spotify.com	TRUE	/	TRUE	1755972148	_tt_enable_cookie	1
+.spotify.com	TRUE	/	TRUE	1755972148	_ttp	LrYaOO5CRFAj5F01UlEXP19grIM
+www.spotify.com	FALSE	/	FALSE	1722362594	payment-sdk-locales	pt_BR%2Cpt_PT%2Cpt%2Cpt
+www.spotify.com	TRUE	/	FALSE	1753812196	ravelinDeviceId	rjs-41b45a66-366a-4b35-99f4-a83445037cf4
+.spotify.com	TRUE	/	TRUE	1753812197	_yjsu_yjad	1722276197.d92f0337-2e1f-46a2-9aaf-e5f685ed0438
+.spotify.com	TRUE	/	TRUE	1722276257	_gat	1
+.spotify.com	TRUE	/	TRUE	1753812206	_pin_unauth	dWlkPU9EZzNZVEZqTW1ZdE9EWTFOUzAwTkRFNUxUa3paREV0TkRNeVpXWm1OamMwT1RWaA
+.spotify.com	TRUE	/	FALSE	1730052206	_rdt_uuid	1722276148379.d4d1d904-0c05-4625-a221-22b7125baa3e
+www.spotify.com	TRUE	/	FALSE	1753812206	RoktRecogniser	9093e09c-d3bb-40ad-860b-bbac9bbadf61
+.www.spotify.com	TRUE	/	TRUE	1785348206	__lt__cid	93378701-d5fc-4669-baff-18fadd930e83
+.www.spotify.com	TRUE	/	TRUE	1722278006	__lt__sid	4eca55cf-589d958e
+.spotify.com	TRUE	/	TRUE	1730052206	_fbp	fb.1.1722276206903.377164867197906038
+.spotify.com	TRUE	/	FALSE	1722278007	RoktSessionId-2196428352427663059	b1bc0129-94da-4a08-8d51-10f8e4900000|false|1722278007585
+.spotify.com	TRUE	/	FALSE	1722278007	RoktSelectionCount-b1bc0129-94da-4a08-8d51-10f8e4900000	1
+.spotify.com	TRUE	/	TRUE	1722362613	_uetsid	dead9cb04dd411ef8f5081a3d4659919
+.spotify.com	TRUE	/	TRUE	1755972213	_uetvid	deadd2204dd411efb71d03f1e3f65098
+.spotify.com	TRUE	/	TRUE	1722276264	_gali	menu-group-payment
+www.spotify.com	FALSE	/	FALSE	1722279835	__Host-sp_csrf_sid	42320d047eba0117202a38a7f7cce83a75bdd96bb76e3ebec17468206be7bc2a
+.spotify.com	TRUE	/	TRUE	1785348245	_ga_S35RN5WNT2	GS1.1.1722275886.1.1.1722276245.0.0.0
+.support.spotify.com	TRUE	/	TRUE	1753838732	_pin_unauth	dWlkPU9EZzNZVEZqTW1ZdE9EWTFOUzAwTkRFNUxUa3paREV0TkRNeVpXWm1OamMwT1RWaA
+.spotify.com	TRUE	/	TRUE	1722302793	_dc_gtm_UA-5784146-31	1
+.spotify.com	TRUE	/	TRUE	1756489431	_scid_r	67e6a61c-26fb-4da0-b0b2-e97f256d75cf
+.spotify.com	TRUE	/	TRUE	1756439891	_cs_id	4713fdb0-127d-a3da-9a7c-4d7ced2e24f0.1722275891.2.1722302733.1722302629.1.1756439891715.1
+.spotify.com	TRUE	/	TRUE	1722304533	_cs_s	2.5.1.1722304533465
+.spotify.com	TRUE	/	TRUE	1785374778	_ga_S0T2DJJFZM	GS1.1.1722302628.1.1.1722302778.0.0.0
+.spotify.com	TRUE	/	FALSE	1722360677	_cs_mk_ga	0.41286611967162157_1722358877807
+.spotify.com	TRUE	/	FALSE	1753894880	sp_adid	f283ebbc-6006-4a4a-a553-0356c61e08ee
+.spotify.com	TRUE	/	TRUE	1722359024	_gat_UA-5784146-31	1
+.spotify.com	TRUE	/	TRUE	1722445370	_gid	GA1.2.1198069156.1722275887
+.spotify.com	TRUE	/	TRUE	1785430970	_ga_BMC5VGR8YS	GS1.2.1722358878.3.1.1722358970.54.0.0
+.spotify.com	TRUE	/	FALSE	1753894988	sp_t	a7d12b6e-40bb-4f14-aeb7-beec16ee99fc
+.spotify.com	TRUE	/	TRUE	1753894991	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+30+2024+14%3A03%3A11+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&geolocation=BR%3BRJ&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1785430991	_ga	GA1.1.1800592543.1722275887
+.spotify.com	TRUE	/	TRUE	1785431317	_ga_ZWG1NSHWD8	GS1.1.1722358878.1.1.1722359317.0.0.0
+.spotify.com	FALSE	/	FALSE	1723162577	sp_landing	https%3A%2F%2Fwww.dicio.com.br%2F%3Fsp_cid%3Da4363f634bf7c93b972280db5bb2fba0%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1754613399	sp_t	a4363f634bf7c93b972280db5bb2fba0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: ninmoneill@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 4
+Country: BR
+===========================================

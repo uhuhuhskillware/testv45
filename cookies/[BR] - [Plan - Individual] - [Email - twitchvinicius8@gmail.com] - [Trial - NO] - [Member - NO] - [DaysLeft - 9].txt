@@ -1,0 +1,20 @@
+accounts.spotify.com	FALSE	/	FALSE	1737288711	__Host-device_id	AQBwViB2nIXJy1airoq2XBQIjaG7V4YnFiCusd-clqWVllM-uH_c9yTu3jc9cvFD2JMDWG7zTyzkcP150W0hEYkJDrR4JnRE_Mo
+.spotify.com	FALSE	/	FALSE	1737305127	sp_m	br-pt
+.spotify.com	TRUE	/	FALSE	1751123083	sp_t	87d33ea36a3fcaa2ff142b4793ac9dbe
+.spotify.com	TRUE	/	FALSE	1736544758	sp_adid	befcd535-f957-494e-99b7-0c3de10eef13
+.spotify.com	TRUE	/	TRUE	1734347760	OptanonAlertBoxClosed	2023-12-17T13:16:00.453Z
+.spotify.com	FALSE	/	FALSE	1734347928	sp_dc	AQAshIQaLM5tYQ_WADsorRjp1CPDUEkKOpn1oJKcPUIc7fJrQQ7Q0nJlunQ02bJky7b-67iyeA43oc0MwMYy582Dh231MUm6GTw188x_T4NWJvG9QSabwYSH0-BGbrHtrIBd_43b1VNqZcHYzBf9Vjdz_7TpbFBa
+.spotify.com	TRUE	/	FALSE	1734347928	sp_key	4011eb22-0470-4741-9270-e042c77c0233
+.spotify.com	TRUE	/	TRUE	1744001892	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+07+2024+03%3A58%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&geolocation=BR%3BSP&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1747025975	_ga	GA1.2.560856471.1702818956
+.spotify.com	TRUE	/	TRUE	1747026650	_ga_ZWG1NSHWD8	GS1.1.1712473100.5.1.1712473850.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: twitchvinicius8@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 9
+Country: BR
+===========================================

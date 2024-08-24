@@ -1,0 +1,22 @@
+.spotify.com	FALSE	/	FALSE	1751673638	sp_dc	AQDUnWFaQH8mhykTR-T1oAyJeLI_2-mOy_fGcs7IpsziT8Wsz2zZgKMGE7Bb-4F2IE6ryjkx_QpM1zFm4G5E5nktXmWihBDredXGiWnWLoB8MYxmSYecdTKCoSMz3oVQwKM0M21c9EdrfB-p-geNTm3of7t2w9A
+.spotify.com	TRUE	/	FALSE	1751673638	sp_key	f24c2a56-a3f1-4fe2-b36a-5cd7b8b8e8a6
+.spotify.com	TRUE	/	FALSE	1751673816	sp_t	c3106cc14a2cf83d350f099e8be04ce4
+.spotify.com	TRUE	/	TRUE	1753743080	_ga	GA1.2.1699511729.1719190280
+.spotify.com	TRUE	/	TRUE	1753743080	_ga_ZWG1NSHWD8	GS1.1.1719190280.1.0.1719190280.0.0.0
+.spotify.com	TRUE	/	TRUE	1726176677	_gcl_au	1.1.339754889.1718407877
+.spotify.com	TRUE	/	FALSE	1750719081	sp_adid	44f6bcd9-fa91-48e2-a551-933d91fd7cee
+.spotify.com	TRUE	/	TRUE	1751994243	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+08+2024+12%3A04%3A03+GMT-0700+(Pacific+Daylight+Time)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+accounts.spotify.com	FALSE	/	FALSE	1754780087	__Host-device_id	AQAr0IPEqAPwse7nyeom1JnoqPYNTAZHwaXrBJ1pkjRlIXJxfrClZkl7aZukF6RGDgWwD5w89uKMTbJffySkjNwmrprVC7uv55w
+.spotify.com	TRUE	/	FALSE	1725321733	sp_gaid	0088fcab1a9aae06557924689f8297df9e5ac047c59e31ea8064aa
+.spotify.com	TRUE	/	FALSE	1725397878	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	FALSE	/	FALSE	1754697733	sp_m	ca-en
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: mnguyen20091203@gmail.com
+Plan: Duo
+Trial: NO
+Member: NO
+Days Left: 12
+Country: CA
+===========================================

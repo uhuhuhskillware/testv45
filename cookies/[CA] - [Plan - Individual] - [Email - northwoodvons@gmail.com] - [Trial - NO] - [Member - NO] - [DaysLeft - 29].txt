@@ -1,0 +1,33 @@
+.accounts.spotify.com	FALSE	/	FALSE	0	__Secure-TPASESSION	AQBKwMVntVeB4IGS2MHkATeQmsIsIxlrLXUW8PFzgOVQCyhq3iMEKqu/M47GJoQ7tPfDVMydw0eIb/U0R6Ex7zYosL51X6xTzok=
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	true
+accounts.spotify.com	FALSE	/	FALSE	1724181105	__Host-device_id	AQAj9SGJ3jmElnx-4_z9RITZwYWtNbxQCkNsEDQUJdq6wtDhgZOUdtJpFVLvT6XIdzt626LJTZkR3X59GIvgbeLOQKE4K-CpssE
+.spotify.com	FALSE	/	FALSE	1725397485	sp_m	ca-en
+.spotify.com	TRUE	/	TRUE	1725397489	_ga_S35RN5WNT2	GS1.1.1690844687.4.0.1690844689.0.0.0
+.open.spotify.com	TRUE	/	TRUE	1731269341	_pin_unauth	dWlkPVpXVm1aVE14TnpJdE5qQmlaQzAwTVRWakxXSm1ORFF0Tnpkak1URTBZakJtTWpReg
+.spotify.com	TRUE	/	TRUE	0	LPSID-2422064	VpI0ZsMNTqC_Xh6MchiflA
+.spotify.com	TRUE	/	TRUE	1746577142	LPVID	U3NzY4NjM3NGY1YTI5MjAz
+.spotify.com	TRUE	/	TRUE	1746580170	_ga_S0T2DJJFZM	GS1.1.1712027369.2.0.1712027369.0.0.0
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQCftiEIXuyG0UxGbiRpwPvHnIbpaanM5zKOum8N6l2wfY0YTJs3NS3MHiLSsLVXvTpj83f_9eO-qUATVg
+accounts.spotify.com	TRUE	/	FALSE	0	remember	ebnepplayz%40gmail.com
+.spotify.com	FALSE	/	FALSE	1752771643	sp_dc	AQBnNrBO6XUcb2GA6_4dbGNkp5ZaMiJOJE4trxqYh_Q2cUKm1HvAOM6rkC6J2azw6GluC9SOQLRYSDJArPmG5Z-nJEhpGtzZJ9ilZ1bQKOqtWWEfsZmy2GBWy63TfS3rQs6PI5IvaajGMm6lE29wpKuZ4FTZaeTd
+.spotify.com	TRUE	/	FALSE	1752771643	sp_key	fc92a9a6-53c6-4639-b894-0b5463d609a3
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_sso_csrf_token	013acda71902b1e415fb92cbe4c926bba1acce76d131373231323432383431383230
+.spotify.com	TRUE	/	TRUE	1752787691	OptanonAlertBoxClosed	2024-07-17T23:28:11.420Z
+.spotify.com	TRUE	/	TRUE	1728694178	_gcl_au	1.1.1589110355.1720925378
+.spotify.com	TRUE	/	TRUE	1754585815	OptanonConsent	isIABGlobal=false&datestamp=Wed+Aug+07+2024+14%3A56%3A55+GMT-0400+(Eastern+Daylight+Time)&version=202405.2.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=CA%3BON&isGpcEnabled=0&browserGpcFlag=0
+.spotify.com	TRUE	/	TRUE	1757609815	_ga	GA1.1.830431596.1681948495
+.spotify.com	TRUE	/	TRUE	1757609817	_ga_BMC5VGR8YS	GS1.2.1723057017.42.0.1723057017.60.0.0
+.spotify.com	TRUE	/	TRUE	1757609815	_ga_ZWG1NSHWD8	GS1.1.1723057015.401.0.1723057015.0.0.0
+open.spotify.com	TRUE	/	TRUE	0	sss	1
+.spotify.com	TRUE	/	FALSE	1754643414	sp_t	5879586eff3ff0cd83e88912fdd3f159
+.spotify.com	FALSE	/	FALSE	1754932331	sp_adid	fdfa6f50-b502-4b3e-9df2-e7f4a33f068a
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: northwoodvons@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 29
+Country: CA
+===========================================

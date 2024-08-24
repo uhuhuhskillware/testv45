@@ -1,0 +1,15 @@
+accounts.spotify.com	FALSE	/	FALSE	1750640707	__Host-device_id	AQBGSXZLorZhWnKt7cDQJy0u1-8vtxUYVW0bu1uPtQxqrv6dnxkX8TF_RuITVyn9mQzQlXOPgig2AYj4rHiifty9L2Km-HmfG9w
+.spotify.com	TRUE	/	FALSE	1750129814	sp_adid	4b36445c-5b0e-4aa4-bd37-edffe6421ee3
+.spotify.com	TRUE	/	FALSE	1750129834	sp_t	7498910effd547429a2fe00414f1711a
+.spotify.com	FALSE	/	FALSE	1751078543	sp_dc	AQD9fqsqpa7ziRo_hJYGvBxRhDkVeCg9tPz3cxoZ6pDSUrUN5hi3b9DoEuRA2aItV_NGoTK2dYWEnFlGdPy9-6lu2BHui91El79nBdkf3Q25bpqz1VU1E8DKtZ1DDEIcNblBg18WnJe6AddPnHTUU7EHwQthZrYcwhU5zaJnWbzNCJQOuWv33Chd-oua53fWbbNN2EZJCKjWhhik_0wXFH-C1kDn
+.spotify.com	TRUE	/	FALSE	1751078543	sp_key	3e99721e-24ad-4cf4-8f3c-a4b33cba01cb
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: hamailia450@gmail.com
+Plan: Individual
+Trial: YES
+Member: NO
+Days Left: 18
+Country: CA
+===========================================

@@ -1,0 +1,18 @@
+accounts.spotify.com	FALSE	/	FALSE	1757708752	__Host-device_id	AQBp443tlYbc2TsHsIPwyOat5NUYvrFTVNc3-b5oeFacHUtbssizWMEqx4VUwQWLk0rW_TH7rn_E6bgj3_pDFsTpNzEaAs5LLdA
+.spotify.com	FALSE	/	FALSE	1757708811	sp_m	br-pt
+.spotify.com	FALSE	/	FALSE	1754684959	sp_dc	AQAP2a47HTcxfgLctkW9zPTWexUyZgujKC0JZN5vnGvKjnlfFriLEjlyXzN49m6Lem08lf4Bvgt-QGrbf_sVTte0oOvfQwuGkV1oDmIfhbrkpBsvlVnQSBQHnGAr98mIW9lsFAX2j22OKuShWta_XFvYjNesyTqN
+.spotify.com	TRUE	/	FALSE	1754684959	sp_key	ab2f4fd8-cc2e-405c-89ad-61ae1866d497
+.spotify.com	FALSE	/	FALSE	1723235347	sp_landing	https%3A%2F%2Fchallenge.spotify.com%2Fc%2Fc5d14e07-1ba1-4eff-93c8-0ac5921436d0-5%2F8500030d-4739-4155-b3a6-961f62a72a2d%2Femail
+.spotify.com	FALSE	/	FALSE	1723235347	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	TRUE	/	FALSE	1723235347	sp_new	1
+.spotify.com	TRUE	/	FALSE	1754684965	sp_t	ffc9a11d-3b85-47ad-b767-d77f1d231c1e
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: pierrealeatorio8@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 5
+Country: BR
+===========================================
