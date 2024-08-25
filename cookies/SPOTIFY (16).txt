@@ -1,0 +1,28 @@
+.spotify.com	TRUE	/	TRUE	1752104307	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1752127005	_scid	a00b4fae-e12a-46a9-8054-57b500d45c0f
+.spotify.com	TRUE	/	TRUE	1752127008	_sctr	1%7C1717902000000
+.spotify.com	FALSE	/	FALSE	1752500304	sp_m	ar
+accounts.spotify.com	FALSE	/	FALSE	1752500328	__Host-device_id	AQBGoZxZlOd83FgedMbluc_p0EQRUd1OOF_ohkJtqJ2o4sFqXp6ehA4zIaasVBQU08s_FCKQMYphc3rxaRGqS6H2tLXM8mtiAhs
+.spotify.com	TRUE	/	TRUE	1752104307	_cs_id	f4489c22-7277-a7de-f4bc-38167781724d.1717947507.1.1717947557.1717947507.1.1752111507909.1
+.spotify.com	TRUE	/	TRUE	1752127055	_scid_r	a00b4fae-e12a-46a9-8054-57b500d45c0f
+.spotify.com	TRUE	/	TRUE	1752500395	_ga_S35RN5WNT2	GS1.1.1717947507.1.1.1717947595.0.0.0
+.spotify.com	FALSE	/	FALSE	1750166295	sp_dc	AQD5MUfMe1RK3yXB3MJhBo_uDEP9pR5MS2M_JA-ckUHeJl7eZ4HLiIbg1eZ-x7cbsvoMAfnJhVtBXdbFQhwqOfHKk8MDHN2Bn7BYZKrNtL9TueKMmBR1cei61z0oruct7DsqEzg5g8lGfjx0NO0GeiXgsG3XvAfZ
+.spotify.com	TRUE	/	FALSE	1750166295	sp_key	194a4074-fcf9-4c39-8306-a3080f96a18d
+.spotify.com	TRUE	/	TRUE	1750166327	OptanonAlertBoxClosed	2024-06-17T15:18:47.267Z
+.spotify.com	TRUE	/	TRUE	1755456371	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+17+2024+17%3A46%3A11+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=AR%3BB
+.spotify.com	TRUE	/	TRUE	1725716174	_gcl_au	1.1.1734819715.1717947374
+.spotify.com	TRUE	/	FALSE	1755456371	sp_adid	caedca62-99ee-4093-86d0-641e93a7b346
+.spotify.com	TRUE	/	TRUE	1758481852	_ga	GA1.2.479239794.1717947378
+.spotify.com	TRUE	/	TRUE	1758481852	_ga_BMC5VGR8YS	GS1.2.1723927572.9.1.1723929052.49.0.0
+.spotify.com	TRUE	/	FALSE	1755460006	sp_t	49fdef966975feb54685f897ba56a26f
+.spotify.com	TRUE	/	TRUE	1758756845	_ga_ZWG1NSHWD8	GS1.1.1724204045.16.0.1724204045.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: magangaom@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: AR
+===========================================

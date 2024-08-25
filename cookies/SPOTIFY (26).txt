@@ -1,0 +1,14 @@
+accounts.spotify.com	FALSE	/	FALSE	1738899231	__Host-device_id	AQDgkxKbzwDjhnuRgkKLmomvs2rqBVSM6AVjcFQygEBiAnDvuz3hazfwjVJHt5D816MqsAtEO_p5w1AgUjVuHs4kec2nFc30IRg
+.spotify.com	FALSE	/	FALSE	1735875324	sp_dc	AQBWzAI9HK9zlnp9mLwtMJ1AEC5fT6j_klOqMh8LCI-HgYIWZR1_2dBjraVwq6yq6qAoPSnmyqitP-zUo6CkpgTofIaQTzlaDF5cAP1rf3kBMalN8WVFFdaDwoClItCC2l8PdY7RfwYUL-mo7Bim4a5XaQ5sqffM
+.spotify.com	TRUE	/	FALSE	1735875324	sp_key	8242eedf-1ea1-4fd0-ac18-9f5f630629b1
+.spotify.com	TRUE	/	FALSE	1735875327	sp_t	20c4a4a7b75fc13935a559dab09ee7c4
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: emanuelescool9@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 19
+Country: MX
+===========================================

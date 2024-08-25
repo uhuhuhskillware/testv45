@@ -1,0 +1,15 @@
+accounts.spotify.com	FALSE	/	FALSE	1748471868	__Host-device_id	AQD8F2qzsNvND5Nz0Co2SvakCWkjtQmMiHNYvVfHgQjapqmDXPOdDR1p3L1AmXhyWa7lAyEmUdmn8VOADV7sWZOc4YcjZW_Cub0
+.spotify.com	FALSE	/	FALSE	1745447905	sp_dc	AQBQ4r_qSGGxxjMspikGsW0j9SyAegflIosgJVLKg0BXfjTHRgIe1ubsTQi1g48BwpLB6W_sunNpCFMLISe2-wDuyGcUTRlnFUtj_hAKvZ03KYwEtZnBIKf4krZUpSsCdjVwIVrJF4ReLLVG4ZpN1PscH3-udxk
+.spotify.com	TRUE	/	FALSE	1745447905	sp_key	d34cc7c7-1c0b-455f-bdc7-b852a185008b
+.spotify.com	TRUE	/	FALSE	1745447908	sp_t	12f5e266dd08a011619a1d4da9fb24b1
+.spotify.com	FALSE	/	FALSE	1750792111	sp_adid	d9fa4c1c-3d72-43cc-8e4c-97e42542a894
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: junilopez027@gmail.com
+Plan: Duo
+Trial: NO
+Member: YES
+Days Left: null
+Country: AR
+===========================================

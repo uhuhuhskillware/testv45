@@ -1,0 +1,29 @@
+.spotify.com	TRUE	/	FALSE	1749257394	sp_adid	5285b27e-996d-4331-8d36-7228988afd03
+.spotify.com	FALSE	/	FALSE	1752281396	sp_m	br-pt
+.spotify.com	TRUE	/	TRUE	1752281405	_ga_S35RN5WNT2	GS1.1.1717728600.1.0.1717728605.0.0.0
+www.spotify.com	TRUE	/br-pt/download/windows	TRUE	0	sss	1
+accounts.spotify.com	FALSE	/	FALSE	1752282427	__Host-device_id	AQB5KQVBSoOgn1IM5THssm2_LfpQ2ItNYBVxAYSg8hVn8gj5JmGViifhbcFd2vHJoTz_YjzpgkulDWOLiNNXkxz7F7N9b5Nr4ls
+.accounts.spotify.com	FALSE	/	FALSE	0	__Secure-TPASESSION	AQD8AGjLlwWTI205iRp60GstNJMofRq2qcRod6y9GCQKAisOLl7JXFBaYDpEvDFRq3P3E5/x4jRDwa/RkjrtflPJAqg4dbLk7Kg=
+.spotify.com	TRUE	/	TRUE	1725497383	_gcl_au	1.1.92793559.1717728583
+.accounts.spotify.com	TRUE	/	FALSE	0	csrf_token	AQAoG20_FXD7OAwcdR2OEXpKi81S-dbO_rnqYtJsDQe48KxFvJQNQO0FsC1NoRpEAkx8FzfMKTnHo6GMwg
+accounts.spotify.com	TRUE	/	FALSE	0	remember	camillasds2014%40gmail.com
+.spotify.com	FALSE	/	FALSE	1749258439	sp_dc	AQD8x8fBhSGvHHDQ1bYBfkE44x8JilRHbOdxYjVX64hkCrk69MUeP5QJcH2d3lU18qM_0mWHUo7TKRFdH4BYBIxcwoJn9LMhOwUWLQHggIDJ6UP5LEODOOrxWPRa4orXpUPKEsFwLKZhJn3WMZhKB4xjJ34Yp_A
+.spotify.com	TRUE	/	FALSE	1749258439	sp_key	16a1c0b1-948a-49d4-ae32-6efff69e892e
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_sso_csrf_token	013acda719ca8199f420636903ed547bbc02ee03f831373137373239363430303537
+.accounts.spotify.com	TRUE	/	FALSE	0	sp_tr	true
+open.spotify.com	TRUE	/	TRUE	0	sss	1
+.spotify.com	TRUE	/	TRUE	1749258461	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+07+2024+00%3A07%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1752282463	_ga	GA1.1.1297151532.1717728584
+.spotify.com	TRUE	/	TRUE	1752282463	_ga_ZWG1NSHWD8	GS1.1.1717728584.1.1.1717729663.0.0.0
+.spotify.com	FALSE	/	FALSE	1719159672	sp_landing	https%3A%2F%2Fluxialegendas.blogspot.com%2F%3Fsp_cid%3Ddb89a69b574574749d33d570462c40cb%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1750609272	sp_t	db89a69b574574749d33d570462c40cb
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: camillasds2014@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: BR
+===========================================

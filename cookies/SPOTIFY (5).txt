@@ -1,0 +1,14 @@
+accounts.spotify.com	FALSE	/	FALSE	1758446574	__Host-device_id	AQDR5Vvr6_5HIb2oXIjez6YJ1JmxIFXcHraspnJhHVgySJ382zxZyL477OGwF7VBOfDRAcmhQZFh4hVQjsWvMBQJ6TGztVUJgQ0
+.spotify.com	FALSE	/	FALSE	1755422580	sp_dc	AQDvkc4U8ZgDgK67blbpwIZOQGt118O05hV_n0J7E-mPbkN-eQtFxaYlyqEprud_ulFniW-au2jByMiiEpjy2ZdRTggpSOPuqp0CXwgfi_T_A7VP4ZDvl0aqGIOpOxqrEoit_psWsTvCU_l63GotC9uCZWSOgdbV
+.spotify.com	TRUE	/	FALSE	1755422580	sp_key	5e50b9d9-393c-4443-88a6-86923e93a1f8
+.spotify.com	TRUE	/	FALSE	1755422591	sp_t	cfc5667e9cfcb470e1550239a70a4d3c
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: haris_habib82@hotmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 82
+Country: PK
+===========================================

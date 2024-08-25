@@ -1,0 +1,42 @@
+.spotify.com	TRUE	/	FALSE	1743994287	sp_m	co-es
+www.spotify.com	FALSE	/co-es/premium	FALSE	1741056687	sp_t	09841dd0-c7f2-43b5-b497-c00b3ef5a0e7
+.spotify.com	TRUE	/	FALSE	1743620989	_scid	6971faaa-fe2a-4b62-997f-1ea6b4f1370a
+.spotify.com	TRUE	/	FALSE	1743598291	_cs_c	0
+.spotify.com	TRUE	/	FALSE	1743130292	_tt_enable_cookie	1
+.spotify.com	TRUE	/	FALSE	1743130292	_ttp	1TWMoL4Ky7G_VG_ijhcAV9MhJ7n
+.spotify.com	TRUE	/	FALSE	1740970295	OptanonAlertBoxClosed	2024-03-03T02:51:35.275Z
+.spotify.com	TRUE	/	FALSE	1743898526	__kdtv	t%3D1709436452205%3Bi%3Dbeb6a4dbcb49262dd9c997580f58723b55782f07
+.spotify.com	TRUE	/	FALSE	1743898526	_kdt	%7B%22t%22%3A1709436452205%2C%22i%22%3A%22beb6a4dbcb49262dd9c997580f58723b55782f07%22%7D
+accounts.spotify.com	FALSE	/	FALSE	1746921654	__Host-device_id	AQCB3F4rodjjGHp3blLtftFKQg_T8VW43BH-fY1G2bhQXQs0XbTO8ZgUC2yjuyRljr3zn1XGmAa_7drroKJyDbreUrd4eMXY19c
+.spotify.com	TRUE	/	FALSE	1743897686	sp_dc	AQAmKJKUFeEg80D9WQXHMfbCCDb9NjGagpBY6y_5WfeZdr7L1cg5b0ShYg0AEA9MG1Bj-hsyFVmhVmAsCnHgqZ_O_yYL2nzJBmR2JLJEcpRA8i90i0T-uOtielSd95jI4rewYoocVwM_w8vpycjLEUbhiS3j9o9J
+.spotify.com	TRUE	/	FALSE	1743897686	sp_key	1ba1af05-2344-45f3-94f0-7ff6218047a0
+.spotify.com	TRUE	/	FALSE	1754227846	_sctr	1%7C1719982800000
+.spotify.com	TRUE	/	FALSE	1725225138	sp_gaid	0088fc0d02f48f1730f90dec91d39f336f38ee5c2a03148bbbf9ec
+.spotify.com	TRUE	/	FALSE	1725231161	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+www.spotify.com	FALSE	/	FALSE	1751583309	RoktRecogniser	cce9f125-e032-41ab-a1b0-04000ee1924c
+.www.spotify.com	TRUE	/	FALSE	1754607308	__lt__cid	9cc82607-8194-4b39-a936-cc43d33d7d61
+.spotify.com	TRUE	/	FALSE	1727823308	_fbp	fb.1.1709437017984.436925985
+.spotify.com	TRUE	/	FALSE	1751583309	_pin_unauth	dWlkPU0ySTBaV1l4T1dJdE0ySXdNaTAwTW1KaExXRTNOVFF0WXpSbE5EZGpaVFkxWmpWbQ
+.spotify.com	TRUE	/	FALSE	1727823308	_rdt_uuid	1709436403575.59bef462-7165-4c30-b35b-c213cd0af74d
+.spotify.com	TRUE	/	FALSE	1753743308	_uetvid	49697130d90f11ee888845ceca9c22a4
+www.spotify.com	FALSE	/	FALSE	1751583304	ravelinDeviceId	rjs-acf15ee0-d747-498c-bc40-8e33a6b8ae19
+.spotify.com	TRUE	/	FALSE	1751583549	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+03+2024+17%3A59%3A09+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&geolocation=CO%3BDC&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1743598291	_cs_id	f8138e45-cac8-a19d-d4b1-563c0bf66beb.1709434291.4.1720047549.1720047163.1.1743598291814.1
+.spotify.com	TRUE	/	FALSE	1754607549	_ga	GA1.2.440358510.1709434291
+.spotify.com	TRUE	/	FALSE	1754607550	_ga_BMC5VGR8YS	GS1.2.1720047164.2.1.1720047550.60.0.0
+.spotify.com	TRUE	/	FALSE	1754607554	_ga_S35RN5WNT2	GS1.1.1720047163.4.1.1720047554.0.0.0
+.spotify.com	TRUE	/	FALSE	1727817142	_gcl_au	1.1.1613677370.1720041142
+.spotify.com	TRUE	/	FALSE	1754234247	_scid_r	6971faaa-fe2a-4b62-997f-1ea6b4f1370a
+.spotify.com	TRUE	/	FALSE	1751583549	sp_adid	4a683ace-3636-40c1-8f72-b61a61359b35
+.spotify.com	TRUE	/	FALSE	1721608649	sp_landing	https%3A%2F%2Fopen.spotify.com%2Falbum%2F3s6jmSUxBLRxzKdevnFmJS%3Fsp_cid%3D5b8a7c39-ffb0-4e1f-82d0-007d7588e78a%26device%3Ddesktop%26utm_source%3Dembed_player_p%26utm_medium%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1753058252	sp_t	5b8a7c39-ffb0-4e1f-82d0-007d7588e78a
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: sebaspinilla153@gmail.com
+Plan: Duo
+Trial: NO
+Member: NO
+Days Left: 41
+Country: CO
+===========================================

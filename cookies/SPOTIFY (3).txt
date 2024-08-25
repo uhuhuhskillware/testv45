@@ -1,0 +1,26 @@
+www.spotify.com	FALSE	/	FALSE	1737973118	ravelinDeviceId	rjs-59cdd9bb-2254-4bc9-8195-53db428687cb
+.spotify.com	TRUE	/	FALSE	1738059515	__kdtv	t%3D1676202140822%3Bi%3D06591ca4c534536dc421180e75d938e94db99bf8
+.spotify.com	TRUE	/	FALSE	1738059515	_kdt	%7B%22t%22%3A1676202140822%2C%22i%22%3A%2206591ca4c534536dc421180e75d938e94db99bf8%22%7D
+.spotify.com	TRUE	/	FALSE	1737264498	sp_t	ae30872f21b30b9d78bb403961b895e7
+.spotify.com	TRUE	/	FALSE	1737264493	sp_dc	AQDJOssIdJRX3umlREYGU6ztATLfM88BIriyZrX4T1kEPbd1wpkQlxwRYLBOWiLNAyWDzeG244AE2IQmjPGr958w2w-h7J4XnUN9KZnvOjRtdxEECzgYJCMA9fIBiySVfanZEzQhurc-mbiPxjz05MdjmIEqf4YL
+.spotify.com	TRUE	/	FALSE	1737264493	sp_key	0b01cdac-ae4c-4888-95f7-54c37d1a457b
+.spotify.com	TRUE	/	FALSE	1740623758	_sctr	1%7C1706371200000
+.spotify.com	TRUE	/	FALSE	1740997149	_ga	GA1.2.1515488341.1685255091
+.spotify.com	TRUE	/	FALSE	1740623847	_scid_r	ef1c1a59-26c4-4f5a-8dd2-1800c25d1a54
+.spotify.com	TRUE	/	FALSE	1750055241	OptanonConsent	isIABGlobal=false&datestamp=Sun+Jun+16+2024+14%3A27%3A21+GMT%2B0800+(Singapore+Standard+Time)&version=202309.1.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=PH%3B00&isGpcEnabled=0&browserGpcFlag=1
+.spotify.com	TRUE	/	FALSE	1753079247	_ga_S35RN5WNT2	GS1.1.1718519224.3.1.1718519247.0.0.0
+.spotify.com	TRUE	/	FALSE	1726292071	_gcl_au	1.1.1720260735.1718516071
+.spotify.com	TRUE	/	FALSE	1753079239	sp_m	ph-en
+www.spotify.com	FALSE	/ph-en/account/overview	FALSE	17561315582931459	sss	1
+www.spotify.com	FALSE	/ph-en/account/profile	FALSE	17561315582931459	sss	1
+www.spotify.com	FALSE	/ph-en/account/subscription/update-payment-details	FALSE	17561315582941592	sss	1
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: drowssorcretsam@gmail.com
+Plan: Duo
+Trial: NO
+Member: NO
+Days Left: 19
+Country: PH
+===========================================

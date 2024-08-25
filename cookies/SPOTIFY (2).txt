@@ -1,0 +1,22 @@
+accounts.spotify.com	FALSE	/	FALSE	1755985287	__Host-device_id	AQAASadGWRvODeBVY69cSXGREwQ8Vo-fNvsrH-qlaVkuxqWM5qjJAzow-nmOmZpIGlHTQtGVnC37iBIb14Rv-Eh1uKojGZRp7DY
+.spotify.com	FALSE	/	FALSE	1752961308	sp_dc	AQBQ_nLKjSRGBltZo0d-hYgGJ6XWxgXCpqnH5n0qjMorUxq9xWpz-rF64SklUL9bLVhzf2JptE2G_e5uaIgIUPOhlAOOTXsCenNLCe6wjFlIUzB_QgcOXGcH1PzbFcxBIGW0dp3OO8vUOEVb5T9esws3UXCXuifr
+.spotify.com	TRUE	/	FALSE	1752961308	sp_key	f33bf074-a84f-4aa3-a8d0-05b4c87db582
+.spotify.com	TRUE	/	TRUE	1752961446	OptanonAlertBoxClosed	2024-07-19T23:44:06.744Z
+.spotify.com	TRUE	/	TRUE	1729201279	_gcl_au	1.1.1807217942.1721432479
+.spotify.com	TRUE	/	TRUE	1755797965	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+21+2024+14%3A39%3A25+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=PE%3BCUS
+.spotify.com	TRUE	/	FALSE	1755797965	sp_adid	c8b6c575-3203-4091-9fbc-87b2ff50c71e
+.spotify.com	TRUE	/	TRUE	1758925502	_ga	GA1.2.661461932.1721432480
+.spotify.com	TRUE	/	TRUE	1758925502	_ga_BMC5VGR8YS	GS1.2.1724372702.13.0.1724372702.60.0.0
+.spotify.com	TRUE	/	TRUE	1724451902	_gid	GA1.2.1684176218.1724269165
+.spotify.com	TRUE	/	FALSE	1755983504	sp_t	cf2b7d7eaca2573c8aeb6b58e6d1c3a4
+.spotify.com	TRUE	/	TRUE	1759008128	_ga_ZWG1NSHWD8	GS1.1.1724455328.18.0.1724455328.0.0.0
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: maycolsalomauscabb@gmail.com
+Plan: Family
+Trial: NO
+Member: YES
+Days Left: null
+Country: PE
+===========================================

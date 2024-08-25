@@ -1,0 +1,38 @@
+.spotify.com	TRUE	/	TRUE	1749682427	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+12+2024+07%3A53%3A47+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.spotify.com%2Fvn-vi%2Faccount%2Foverview%2F&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+accounts.spotify.com	FALSE	/	FALSE	1752706401	__Host-device_id	AQCmenUc17aYx4fQeqnWDP3KYevNKuTds6NeCT5qI6cM09DDMrYNvjE-z2fbPivWhDVpzGtjLZukTfoRMKGgebiyJG-lzedPbvs
+accounts.spotify.com	FALSE	/	FALSE	1718150022	__Host-sp_csrf_sid	e9898a712544ed8db8c6508b212014fad2e3076e2b25e08c35a39cda899ad3c3
+.spotify.com	TRUE	/	TRUE	1752310427	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1752310427	_cs_id	90866d3f-dcf2-aeca-abeb-a07fcc528c67.1718153627.1.1718153627.1718153627.1.1752317627450.1
+.spotify.com	TRUE	/	FALSE	1718148227	_cs_mk_ga	0.2039965818500411_1718153627262
+.spotify.com	TRUE	/	TRUE	1718148228	_cs_s	1.5.1.1718155428461
+.spotify.com	TRUE	/	TRUE	1718146487	_gat	1
+.spotify.com	TRUE	/	TRUE	1718146487	_gat_UA-5784146-31	1
+.spotify.com	TRUE	/	TRUE	1725922427	_gcl_au	1.1.2063646424.1718153627
+.spotify.com	TRUE	/	TRUE	1752333125	_scid	e528609b-41b3-4594-b970-e0ce82115eaf
+.spotify.com	TRUE	/	TRUE	1752333125	_scid_r	e528609b-41b3-4594-b970-e0ce82115eaf
+.spotify.com	TRUE	/	TRUE	1752333127	_sctr	1%7C1718125200000
+.spotify.com	TRUE	/	FALSE	1749682427	sp_adid	28d762d9-80d2-4915-b70b-6d202784ef46
+.spotify.com	FALSE	/	FALSE	1749682422	sp_dc	AQCC-4lngQn4NJ_0kaZxHFh9idcN9uS_bLuWRY7NTDBIfPnJd_s8BInU-Nhi7zrKwBV0xyDIXHWr5jkFm7NxZ6AQWMIWF12z9I3W9HNT8fSUPVf6AQQeaweZ4A5JEMg9uuGQskCTV_-YtoIYJOHAgzcXKshxwyCrBtF0jKrI-J3q5-Dr0tH_ebUxmWy8sWol0Dbb6rzNe13dqNh54sej2nIvOqc
+.spotify.com	TRUE	/	FALSE	1723330425	sp_gaid	0088fc22d22153d3e0c9e79a8724fa78e320229fe424b951dd89fb
+.spotify.com	TRUE	/	FALSE	1749682422	sp_key	934ca10a-c23e-4f66-a0a1-395b68a2c097
+.spotify.com	FALSE	/	FALSE	1718232826	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fvn-vi%2Faccount%2Foverview%2F
+.spotify.com	FALSE	/	FALSE	1718232826	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	FALSE	/	FALSE	1752706425	sp_m	vn-vi
+.spotify.com	TRUE	/	FALSE	1718232826	sp_new	1
+.spotify.com	TRUE	/	TRUE	1752706431	_ga_S35RN5WNT2	GS1.1.1718153627.1.1.1718153631.0.0.0
+www.spotify.com	FALSE	/	FALSE	1718150041	__Host-sp_csrf_sid	e18c9d002ee4a390c8c594a377af4d4452c5b3478ed80a1c3788e3dd8c23d010
+.spotify.com	TRUE	/	TRUE	1752706441	_ga	GA1.2.1786558754.1718153628
+.spotify.com	TRUE	/	TRUE	1718232841	_gid	GA1.2.596976428.1718153628
+.spotify.com	TRUE	/	FALSE	1723330441	sp_last_utm	%7B%22utm_campaign%22%3A%22msft_1%22%2C%22utm_medium%22%3A%22desktop-sa-installer%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	FALSE	1749682443	sp_t	cae98460-f7f3-473b-85d3-50abceeb7375
+www.spotify.com	FALSE	/	FALSE	1718232841	spref2	msft_1
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: minhm06599@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: null
+Country: VN
+===========================================

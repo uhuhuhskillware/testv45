@@ -1,0 +1,15 @@
+accounts.spotify.com	FALSE	/	FALSE	1738075431	__Host-device_id	AQB0Gtg3P422fAJ4ab_xWUOCejg3YTpf-wsYmMnJUckrN1LX8XoAGVZ36V8Ce-DlOdhaAyFykAIcGBfXW-zkcBneNaWz3HmdAhs
+.spotify.com	FALSE	/	FALSE	1735051536	sp_dc	AQA5En_DqptwZ1ATNVJawE3V_su9WzmGFghTp3jvF9s6_DBRoU7C_mK9xUbgWg1Lx4cHKgQ7h66pfiqHiQNrqBQ5aOOhuf52U2144nVYJrGLKDyrhvlW9mHyucUxP8M5IN-9qNuYi-6gZamsUFb5N-cfwIcUBOo
+.spotify.com	TRUE	/	FALSE	1735051536	sp_key	cce2c883-a19c-41b2-a070-5c2fb44a935a
+.spotify.com	TRUE	/	FALSE	1735051540	sp_t	199fd6a333c0ca9f18d88c86b4fbcc07
+.spotify.com	FALSE	/	FALSE	1750595145	sp_adid	e37cee02-9ef7-47e8-8465-257e5d9db464
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: damlaelma10@gmail.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 14
+Country: TR
+===========================================

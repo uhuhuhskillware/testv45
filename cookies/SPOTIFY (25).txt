@@ -1,0 +1,34 @@
+accounts.spotify.com	FALSE	/	FALSE	1748320329	__Host-device_id	AQCkphEyjEWyu2ou8lvhSSE992XoG32de7xnenwtytHQc6Gwi4F9ik2BvglK82iqHL_Ve7QtvDFcMnzxa_Op-Nnu-kQ7x_qjibg
+.spotify.com	FALSE	/	FALSE	1745296348	sp_dc	AQBjypkWRYi03FQtcV2gI6-bDy8P6_koe-g3Q5jOoH-XBfABoxu8_XhFeBhj04DDDRisxNnzHzihSvCv768VjSU0WI1qYWdtFtTblRO9p4brATXDmQwX193BF7GXttt4BLRYhqPJ2C43PiMFUtatVVLTxrBVkTiy
+.spotify.com	TRUE	/	FALSE	1745296348	sp_key	17d0294c-247a-4d53-bcf4-fa94316f179b
+.spotify.com	TRUE	/	TRUE	1747947716	_scid	3cc3ca8f-cc9b-4b6b-a5eb-e2a911893d3a
+.spotify.com	TRUE	/	TRUE	1747925018	_cs_c	0
+.spotify.com	TRUE	/	TRUE	1747457023	_tt_enable_cookie	1
+.spotify.com	TRUE	/	TRUE	1747457023	_ttp	hlov1P8tvtEBWsQZnRhtpnIplaq
+www.spotify.com	TRUE	/	FALSE	1745298111	ravelinDeviceId	rjs-b8565e46-392e-4b20-ba04-c15e36fefc91
+.spotify.com	TRUE	/	TRUE	1745297372	__kdtv	t%3D1668603417897%3Bi%3D2342c7eee7e19979fb026c7fef20c5e7cfb939b7
+.spotify.com	TRUE	/	TRUE	1745297372	_kdt	%7B%22t%22%3A1668603417897%2C%22i%22%3A%222342c7eee7e19979fb026c7fef20c5e7cfb939b7%22%7D
+.spotify.com	TRUE	/	TRUE	1752038743	_ga_ZWG1NSHWD8	GS1.1.1717485911.5.1.1717485943.0.0.0
+.spotify.com	TRUE	/	TRUE	1751665462	_sctr	1%7C1717439400000
+.spotify.com	FALSE	/	FALSE	1752038756	sp_m	fr
+.spotify.com	TRUE	/	TRUE	1749015002	OptanonAlertBoxClosed	2024-06-04T07:30:02.930Z
+.spotify.com	TRUE	/	TRUE	1752039223	_ga_S0T2DJJFZM	GS1.1.1717486418.1.0.1717486423.0.0.0
+.support.spotify.com	TRUE	/	TRUE	1749015219	_pin_unauth	dWlkPU9XRTBZVEZsT0RZdE56RTVaQzAwWWpNNUxUazVNMkl0WldGallUTmxPRGRpT0RGbQ
+.spotify.com	TRUE	/	FALSE	1749015249	sp_t	65bae2ac-3272-40fb-ae01-bff053436b7c
+.spotify.com	TRUE	/	TRUE	1749015273	OptanonConsent	isIABGlobal=false&datestamp=Tue+Jun+04+2024+13%3A04%3A33+GMT%2B0530+(India+Standard+Time)&version=202309.1.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=LK%3B1
+.spotify.com	TRUE	/	TRUE	1725255274	_fbp	fb.1.1717486079042.147629180291338454
+.spotify.com	TRUE	/	TRUE	1752039274	_ga	GA1.2.607954884.1668602998
+.spotify.com	TRUE	/	TRUE	1752039273	_ga_S35RN5WNT2	GS1.1.1717485960.2.1.1717486473.0.0.0
+.spotify.com	TRUE	/	TRUE	1751665971	_scid_r	3cc3ca8f-cc9b-4b6b-a5eb-e2a911893d3a
+.spotify.com	FALSE	/	FALSE	1749015274	sp_adid	3c11d37d-dd6a-4f80-bc2b-3432f71880ad
+.spotify.com	TRUE	/	TRUE	1747925018	_cs_id	2047b453-7d71-a08b-cc11-87aded58ddfc.1713768218.3.1717489686.1717489686.1.1747932218378.1
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: mrbeastsachin66@gmail.com
+Plan: Family
+Trial: NO
+Member: NO
+Days Left: 4
+Country: LK
+===========================================

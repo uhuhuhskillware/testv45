@@ -1,0 +1,23 @@
+.spotify.com	TRUE	/	TRUE	1752396772	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+13+2024+16%3A22%3A52+GMT%2B0530+(India+Standard+Time)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2F&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+accounts.spotify.com	FALSE	/	FALSE	1755420485	__Host-device_id	AQB0HMdPwXnXP7MMUeFtkvAvY7tjBz4Qhwx7YEkLhhq-_IGGs0YXhMuZbVq0u0x0DOkTvU4tKs_xy-38yHQj8M3QxlTsGPXVUvU
+.spotify.com	TRUE	/	TRUE	1755420774	_ga	GA1.2.1581738782.1720867973
+.spotify.com	TRUE	/	TRUE	1755420773	_ga_BMC5VGR8YS	GS1.2.1720867973.1.0.1720867973.60.0.0
+.spotify.com	TRUE	/	TRUE	1755420772	_ga_ZWG1NSHWD8	GS1.1.1720867972.1.0.1720867972.0.0.0
+.spotify.com	TRUE	/	TRUE	1728636772	_gcl_au	1.1.91367323.1720867972
+.spotify.com	TRUE	/	FALSE	1752396773	sp_adid	58ca568a-cc40-4dd6-a7a5-35a274d84c9e
+.spotify.com	FALSE	/	FALSE	1752396749	sp_dc	AQARRCMXoZViby6I2bU7vi4ZiIv3Ecag14ak-XLgkRMyfoFa6aLgPTHEKZX3sKuHKnT9_pOalAf08fVksyCUYS8e3eIPeBCypjzQofrbK_awTUuU83T1eQDXG-jXxgi4BYgNa3kR2z5YHR-p7VqT-kBUxXVN3E2Ca6cX0MheYWFC0h1qL-03aaJBC63gPVgwVFXuT3euIV5WqV2Mr-SUjxGg3dQ
+.spotify.com	TRUE	/	FALSE	1726044772	sp_gaid	0088fcc2916e29c830de293dc120ca6e96e770360d9de370911d3b
+.spotify.com	TRUE	/	FALSE	1752396749	sp_key	098440b6-0fab-4a64-a495-296648be9663
+.spotify.com	FALSE	/	FALSE	1755420572	sp_m	in-en
+.spotify.com	TRUE	/	FALSE	1752396783	sp_t	7e38ae491f829bcdb020f99581dcaeab
+.spotify.com	TRUE	/	FALSE	1726299652	sp_last_utm	%7B%22utm_campaign%22%3A%22Desktop-MidYear24-Wave%2B1-Global-Intro_duplicate%22%2C%22utm_medium%22%3A%22in_app%22%2C%22utm_content%22%3A%22IN_150917%22%2C%22utm_source%22%3A%22spotify%22%7D
+
+===========================================
+BY https://t.me/redg3n // https://dsc.gg/r3dg3n
+Email: ct8vlu9ybm@laafd.com
+Plan: Individual
+Trial: NO
+Member: NO
+Days Left: 7
+Country: IN
+===========================================
